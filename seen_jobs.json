@@ -15,7 +15,7 @@
     "pay": "INR 12-15 LPA",
     "surfaced_on": "2026-11-15",
     "score": 9,
-    "student_eligibility_2028": "AMBIGUOUS for 2028 batch - no degree/batch requirement stated, but all roles are full-time"
+    "student_eligibility_2028": "ELIGIBLE - full job page confirms no degree, no batch, no graduation requirement; skills-only criteria"
   },
   {
     "company": "Rezifi",
@@ -24,7 +24,7 @@
     "pay": "INR 12-15 LPA",
     "surfaced_on": "2026-11-15",
     "score": 9,
-    "student_eligibility_2028": "AMBIGUOUS for 2028 batch - no degree/batch requirement stated, but all roles are full-time"
+    "student_eligibility_2028": "ELIGIBLE - full job page confirms no degree, no batch, no graduation requirement; skills-only criteria"
   },
   {
     "company": "CDOps Tech",
@@ -33,7 +33,7 @@
     "pay": "INR 8-12 LPA",
     "surfaced_on": "2026-11-15",
     "score": 8,
-    "student_eligibility_2028": "POSSIBLE for 2028 batch - 'bachelor's degree OR equivalent practical experience'; full-time"
+    "student_eligibility_2028": "ELIGIBLE - 'bachelor's degree OR equivalent practical experience'"
   },
   {
     "company": "SphinxHire",
@@ -50,7 +50,8 @@
     "url": "https://rezifi.com/careers/fresher-applied-ai-engineer",
     "pay": "INR 12-15 LPA",
     "surfaced_on": "2026-11-15",
-    "note": "alternate at same company"
+    "note": "alternate at same company",
+    "student_eligibility_2028": "ELIGIBLE - full job page confirms no degree, no batch, no graduation requirement; skills-only criteria"
   },
   {
     "company": "Rezifi",
@@ -58,7 +59,8 @@
     "url": "https://rezifi.com/careers/fresher-frontend-developer",
     "pay": "INR 12-15 LPA",
     "surfaced_on": "2026-11-15",
-    "note": "alternate at same company"
+    "note": "alternate at same company",
+    "student_eligibility_2028": "ELIGIBLE - full job page confirms no degree, no batch, no graduation requirement; skills-only criteria"
   },
   {
     "company": "Anshumat Foundation",
@@ -198,5 +200,95 @@
     "url": "https://thejobcompany.co.in/frontend/job_details.php?job_id=5847",
     "surfaced_on": "2026-11-15",
     "rejected": "batch field 2025/2026 only; INR 25,000/month; stale (updated May 2026). Stack was a match (TS/React/Next/Node)."
+  },
+  {
+    "company": "Pyrock",
+    "role": "Junior Full-Stack Developer",
+    "url": "https://jobsalertx.com/jobs/9244d6e0-6acf-4ec9-9de9-d978b8bd4499",
+    "pay": "INR 60,000/month",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - listing states 'Any Batch / Any Graduate'",
+    "note": "Six-day work week. React+TS+Cloudflare Workers+LLM+WhatsApp automation; matches MSG91 WhatsApp experience.",
+    "score": 9
+  },
+  {
+    "company": "Gravity (gravity.fast)",
+    "role": "Software Full Stack Developer",
+    "url": "https://hiredoor.in/jobs/software-full-stack-developer-e0685d",
+    "pay": "INR 10-20 LPA + equity",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "LIKELY - 'degree optional if you have shipped products', but listing also names batches 2023-2026 (conflict)",
+    "note": "Stack is near-exact match: React/TS, Node Express/NestJS, PostgreSQL+Prisma, AWS EC2/S3/RDS/Lambda, Docker/CI-CD.",
+    "score": 8.5
+  },
+  {
+    "company": "PROQAAI Private Limited",
+    "role": "Full Stack Developer",
+    "url": "https://jobsalertx.com/jobs/dd110717-a5eb-4176-a1c4-80c54f33d1de",
+    "pay": "INR 7 LPA",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - 'Any Batch / Any Graduate', freshers, no experience required",
+    "score": 8
+  },
+  {
+    "company": "Hidani Tech",
+    "role": "SDE Intern",
+    "url": "https://hiredoor.in/jobs/sde-intern-e30479",
+    "pay": "INR 20,000/month",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - batches 2027-2028 only",
+    "rejected": "below 30k floor. Stack is a bullseye (Next.js, NestJS, Prisma, AWS S3, RBAC, CI/CD). Offer if floor relaxed."
+  },
+  {
+    "company": "RevoDataLabs",
+    "role": "Full Stack Developer Intern",
+    "url": "http://hiredoor.in/jobs/full-stack-developer-intern-144944",
+    "pay": "INR 20,000/month",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - batches 2026-2028, 3rd/4th-year students",
+    "rejected": "below 30k floor"
+  },
+  {
+    "company": "HiRekruit",
+    "role": "SDE Intern",
+    "url": "https://hirekruit.com",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - 2027/2028 batches ONLY",
+    "rejected": "UNPAID"
+  },
+  {
+    "company": "GlobalLogic India",
+    "role": "Full Stack Software Engineer (Campus Hire)",
+    "url": "https://fresherjobss.com/job/1440/full-stack-software-engineer-campus-hire",
+    "surfaced_on": "2026-11-15",
+    "rejected": "NOT ELIGIBLE - 2025/2026 batch only"
+  },
+  {
+    "company": "Gravitix Technologies",
+    "role": "Full Stack Developer (Fresher)",
+    "url": "https://ats.sphinxhireai.com/careers/gravitix-technologies/jobs/1-full-stack-developer-fresher",
+    "surfaced_on": "2026-11-15",
+    "rejected": "NOT ELIGIBLE - ATS field 'Education: Graduate'"
+  },
+  {
+    "company": "StayBoba (HustleVentures)",
+    "role": "Full-Stack Developer (College Hiring)",
+    "url": "https://careers.stayboba.com/apply/full-stack-college/",
+    "surfaced_on": "2026-11-15",
+    "rejected": "15k/mo intern then 25k/mo full-time, below floor; unpaid 1-week evaluation; 'final-year students'"
+  },
+  {
+    "company": "Zyno AI India",
+    "role": "Software Engineer - Fresher",
+    "url": "https://internshala.com/job/detail/fresher-remote-software-engineer-job-at-zyno-ai-india-private-limited1792728796",
+    "surfaced_on": "2026-11-15",
+    "rejected": "probation 15-20k/month, CTC 2.4-4.8 LPA - below floor"
+  },
+  {
+    "company": "PlayPower Labs",
+    "role": "Software Engineer",
+    "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
+    "surfaced_on": "2026-11-15",
+    "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
   }
 ]
