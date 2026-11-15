@@ -5,7 +5,8 @@
     "url": "https://www.heizen.work/careers/software-engineer-fullstack-app",
     "pay": "INR 12-18 LPA fixed + ESOPs",
     "surfaced_on": "2026-11-15",
-    "score": 9
+    "score": 9,
+    "student_eligibility_2028": "NOT ELIGIBLE for 2028 batch - listed eligible batches 2024/2025/2026; full-time, needs completed degree"
   },
   {
     "company": "Rezifi",
@@ -13,7 +14,8 @@
     "url": "https://rezifi.com/careers/fresher-backend-developer",
     "pay": "INR 12-15 LPA",
     "surfaced_on": "2026-11-15",
-    "score": 9
+    "score": 9,
+    "student_eligibility_2028": "AMBIGUOUS for 2028 batch - no degree/batch requirement stated, but all roles are full-time"
   },
   {
     "company": "Rezifi",
@@ -21,7 +23,8 @@
     "url": "https://rezifi.com/careers/fresher-full-stack-developer",
     "pay": "INR 12-15 LPA",
     "surfaced_on": "2026-11-15",
-    "score": 9
+    "score": 9,
+    "student_eligibility_2028": "AMBIGUOUS for 2028 batch - no degree/batch requirement stated, but all roles are full-time"
   },
   {
     "company": "CDOps Tech",
@@ -29,7 +32,8 @@
     "url": "https://jobfound.org/job/cdops-tech-is-hiring-for-full-stack-engineer-india-remote-india-10-november-2026",
     "pay": "INR 8-12 LPA",
     "surfaced_on": "2026-11-15",
-    "score": 8
+    "score": 8,
+    "student_eligibility_2028": "POSSIBLE for 2028 batch - 'bachelor's degree OR equivalent practical experience'; full-time"
   },
   {
     "company": "SphinxHire",
@@ -37,7 +41,8 @@
     "url": "https://ats.sphinxhireai.com/careers/sphinxhire/jobs/3-full-stack-developer-fresher",
     "pay": "INR 4.5-6.5 LPA",
     "surfaced_on": "2026-11-15",
-    "score": 8
+    "score": 8,
+    "student_eligibility_2028": "NOT ELIGIBLE for 2028 batch - ATS field 'Education: Graduate'; graduates only"
   },
   {
     "company": "Rezifi",
@@ -166,5 +171,32 @@
     "url": "https://jobs24x.com/careers/sde-intern",
     "surfaced_on": "2026-11-15",
     "rejected": "SUSPECT - $900-1200/mo 'Remote (Global)' but self-hosted on the job board's own domain, no company detail or date"
+  },
+  {
+    "company": "Heizen",
+    "role": "Software Development Engineer (Intern)",
+    "url": "https://www.heizen.work/careers/sde-intern",
+    "pay": "INR 25,000/month + PPO of INR 12 LPA + ESOPs",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - 'Currently pursuing or recently completed degree'; students explicitly allowed",
+    "note": "Stipend is 5k BELOW the 30k floor. AI Intern variant reportedly 40k/month with 15 LPA PPO - confirm. Batch limit unstated officially; aggregators conflict (2024-2028 vs 2025-2027).",
+    "score": 9
+  },
+  {
+    "company": "Weekday (via Clera)",
+    "role": "Software Engineer Intern",
+    "url": "https://www.getclera.com/jobs/weekday/software-engineer-intern-gyeibjuqiso3",
+    "pay": "INR 30,000-50,000/month",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - 'Currently pursuing or recently completed a degree', 0 years min",
+    "note": "Clears the 30k floor but posted 19 Aug 2026 (~3 months stale), may be filled. Bengaluru remote, 2-6 months.",
+    "score": 8
+  },
+  {
+    "company": "Hyperqube Ionic",
+    "role": "SDE Intern",
+    "url": "https://thejobcompany.co.in/frontend/job_details.php?job_id=5847",
+    "surfaced_on": "2026-11-15",
+    "rejected": "batch field 2025/2026 only; INR 25,000/month; stale (updated May 2026). Stack was a match (TS/React/Next/Node)."
   }
 ]
