@@ -1,0 +1,12 @@
+# Kalpan Kaneriya — Full-Stack & Backend Engineer
+- **Location:** India (Available for 100% Remote / Async Global Roles)
+- **Education:** B.Tech Computer Science & Engineering, Rai University (2024 – 2028) | CGPA: 9.7/10
+- **Core Stack:** TypeScript, JavaScript (ES6+), Python, C++, React.js, Next.js, Tailwind CSS, Node.js, Express.js, NestJS, REST APIs, WebSockets, PostgreSQL, MongoDB, Redis, Prisma ORM, Supabase, AWS (EC2, S3, RDS, Lambda, IAM), Docker, GitHub Actions, k6 Load Testing
+- **Experience:**
+  - **Software Engineer Intern — AryanVeda DMS (Remote, Feb 2026 – May 2026):** Built & deployed production full-stack DMS serving 12K+ users & 5K+ DAU; 11-role RBAC hierarchy; async order/inventory/ledger workflows; MSG91 WhatsApp API + async notifications; k6 load testing.
+  - **Product Development Intern — Eduztrik (Remote, Mar 2025 – Jun 2025):** Shipped 3 production features and 10+ UX/workflow improvements.
+- **Key Projects:**
+  - **NyayaSankalan:** 23-table PostgreSQL schema, 16-state machine, 60+ REST APIs (React, TS, Node, Express, Prisma).
+  - **HabitEcho:** Predictive analytics engine achieving ~100ms API latency (Next.js, TS, PostgreSQL, Prisma).
+  - **SpacePulse:** Offline-first cross-platform mobile app (React Native, Expo, TypeScript, Zustand).
+- **Achievements:** LeetCode Knight (1900+ rating, 480+ problems), Winner at GDGC Hackathon (NIT Surat), 9th Rank at OceanLab × CHARUSAT Hackathon, AWS Cloud Practitioner Essentials.
