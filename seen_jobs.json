@@ -1,1 +1,294 @@
-[]
+[
+  {
+    "company": "Heizen",
+    "role": "Software Engineer (Fullstack + React Native)",
+    "url": "https://www.heizen.work/careers/software-engineer-fullstack-app",
+    "pay": "INR 12-18 LPA fixed + ESOPs",
+    "surfaced_on": "2026-11-15",
+    "score": 9,
+    "student_eligibility_2028": "NOT ELIGIBLE for 2028 batch - listed eligible batches 2024/2025/2026; full-time, needs completed degree"
+  },
+  {
+    "company": "Rezifi",
+    "role": "Fresher Node.js Developer",
+    "url": "https://rezifi.com/careers/fresher-backend-developer",
+    "pay": "INR 12-15 LPA",
+    "surfaced_on": "2026-11-15",
+    "score": 9,
+    "student_eligibility_2028": "ELIGIBLE - full job page confirms no degree, no batch, no graduation requirement; skills-only criteria"
+  },
+  {
+    "company": "Rezifi",
+    "role": "Fresher Full Stack Engineer",
+    "url": "https://rezifi.com/careers/fresher-full-stack-developer",
+    "pay": "INR 12-15 LPA",
+    "surfaced_on": "2026-11-15",
+    "score": 9,
+    "student_eligibility_2028": "ELIGIBLE - full job page confirms no degree, no batch, no graduation requirement; skills-only criteria"
+  },
+  {
+    "company": "CDOps Tech",
+    "role": "Full Stack Engineer (React.js / Node.js)",
+    "url": "https://jobfound.org/job/cdops-tech-is-hiring-for-full-stack-engineer-india-remote-india-10-november-2026",
+    "pay": "INR 8-12 LPA",
+    "surfaced_on": "2026-11-15",
+    "score": 8,
+    "student_eligibility_2028": "ELIGIBLE - 'bachelor's degree OR equivalent practical experience'"
+  },
+  {
+    "company": "SphinxHire",
+    "role": "Full Stack Developer (Fresher)",
+    "url": "https://ats.sphinxhireai.com/careers/sphinxhire/jobs/3-full-stack-developer-fresher",
+    "pay": "INR 4.5-6.5 LPA",
+    "surfaced_on": "2026-11-15",
+    "score": 8,
+    "student_eligibility_2028": "NOT ELIGIBLE for 2028 batch - ATS field 'Education: Graduate'; graduates only"
+  },
+  {
+    "company": "Rezifi",
+    "role": "Fresher Applied AI Engineer",
+    "url": "https://rezifi.com/careers/fresher-applied-ai-engineer",
+    "pay": "INR 12-15 LPA",
+    "surfaced_on": "2026-11-15",
+    "note": "alternate at same company",
+    "student_eligibility_2028": "ELIGIBLE - full job page confirms no degree, no batch, no graduation requirement; skills-only criteria"
+  },
+  {
+    "company": "Rezifi",
+    "role": "Fresher React Developer",
+    "url": "https://rezifi.com/careers/fresher-frontend-developer",
+    "pay": "INR 12-15 LPA",
+    "surfaced_on": "2026-11-15",
+    "note": "alternate at same company",
+    "student_eligibility_2028": "ELIGIBLE - full job page confirms no degree, no batch, no graduation requirement; skills-only criteria"
+  },
+  {
+    "company": "Anshumat Foundation",
+    "role": "Full-Stack Developer Intern - Node.js & Next.js",
+    "url": "https://wellfound.com/jobs/4824586-full-stack-developer-intern-node-js-next-js",
+    "surfaced_on": "2026-11-15",
+    "rejected": "unpaid"
+  },
+  {
+    "company": "Docplanner",
+    "role": "Junior Software Engineer - Early Career",
+    "url": "https://jobs.ashbyhq.com/Docplanner/9031585a-7b58-4d06-8d4d-6bf6522a5dda",
+    "surfaced_on": "2026-11-15",
+    "rejected": "100% remote within Poland only"
+  },
+  {
+    "company": "Quayutec",
+    "role": "Founding Engineer, Full-Stack Product",
+    "url": "https://www.quayutec.com/careers/founding-engineer-full-stack-product",
+    "surfaced_on": "2026-11-15",
+    "rejected": "deferred pay - nothing paid until they raise"
+  },
+  {
+    "company": "Bask Health",
+    "role": "Backend Engineering Intern / Software Engineer Early Career",
+    "url": "https://builtin.com/job/backend-engineering-intern/12192423",
+    "surfaced_on": "2026-11-15",
+    "rejected": "US only"
+  },
+  {
+    "company": "AfterQuery",
+    "role": "Software Engineer Intern",
+    "url": "https://www.ycombinator.com/companies/afterquery/jobs/6a7szXP-software-engineer-intern",
+    "surfaced_on": "2026-11-15",
+    "rejected": "US citizen/visa only"
+  },
+  {
+    "company": "Artifex One",
+    "role": "AI Fullstack Software Engineer (Intern)",
+    "url": "https://peerlist.io/company/artifexone/careers/ai-fullstack-software-engineer/jobh7b8oa6reqkd7e2nerkr8mkdke8",
+    "surfaced_on": "2026-11-15",
+    "rejected": "archived - $500/month, was a good fit"
+  },
+  {
+    "company": "Taskly",
+    "role": "Software Development Intern",
+    "url": "https://tasklyanything.ai/careers/software-development-intern",
+    "surfaced_on": "2026-11-15",
+    "rejected": "pay not disclosed; India-eligible, revisit if stipend published"
+  },
+  {
+    "company": "SixSense",
+    "role": "Frontend Developer Intern",
+    "url": "https://builtin.com/job/frontend-developer-intern/12163192",
+    "surfaced_on": "2026-11-15",
+    "rejected": "stipend not stated; remote India, revisit if pay published"
+  },
+  {
+    "company": "Lumitech",
+    "role": "Strong Junior Full-Stack JS Developer",
+    "url": "https://jobs.dou.ua/companies/lumitech/vacancies/379626/",
+    "surfaced_on": "2026-11-15",
+    "rejected": "up to $1500/mo but Ukraine/Dubai hiring region, India eligibility unconfirmed"
+  },
+  {
+    "company": "Hivex",
+    "role": "Junior+ Full Stack Developer",
+    "url": "https://himalayas.app/companies/hivex/jobs/junior-full-stack-developer-react-node-js-2690051801",
+    "surfaced_on": "2026-11-15",
+    "rejected": "requires 2+ years"
+  },
+  {
+    "company": "Auroscale",
+    "role": "Full Stack Engineer Intern",
+    "url": "https://jobsalertx.com/jobs/4697e4db-39b2-48d9-ad3a-41617e6a0016",
+    "surfaced_on": "2026-11-15",
+    "rejected": "INR 25,000/month - below floor"
+  },
+  {
+    "company": "Vantrix Ventures",
+    "role": "Full Stack Intern (Equity-First)",
+    "url": "https://wellfound.com/jobs/4692225-founding-full-stack-engineering-equity-first-clone",
+    "surfaced_on": "2026-11-15",
+    "rejected": "INR 5,000-10,000/month"
+  },
+  {
+    "company": "SpringWeb Solutions (claiming HackerRank)",
+    "role": "Software Development Engineer Intern",
+    "url": "https://careers.springwebsolutions.in/jobs/sde-intern-hackerrank-bengaluru-remote",
+    "surfaced_on": "2026-11-15",
+    "rejected": "LIKELY FAKE - third-party domain misrepresenting HackerRank; real HackerRank SDE intern is onsite Bengaluru and closed"
+  },
+  {
+    "company": "11internships.com listings (Plumcraft, Kilncross, Cedarloft, Fieldgate, Skifflane, Kaveri, Sandhu, Nair, Godavari, Flintridge)",
+    "role": "various Node.js Developer Intern",
+    "url": "https://11internships.com/",
+    "surfaced_on": "2026-11-15",
+    "rejected": "FABRICATED - listings self-labelled 'Demo job created on 11jobs for testing and demonstrations. It is not an actual opening.' Blocklist this domain."
+  },
+  {
+    "company": "myinternships.in (claiming Razorpay)",
+    "role": "Backend Developer Intern",
+    "url": "https://myinternships.in/internships/wj4d9mx",
+    "surfaced_on": "2026-11-15",
+    "rejected": "LIKELY FAKE - unverifiable Razorpay remote intern listing on scraper domain"
+  },
+  {
+    "company": "jobs24x.com",
+    "role": "Software Engineering Intern",
+    "url": "https://jobs24x.com/careers/sde-intern",
+    "surfaced_on": "2026-11-15",
+    "rejected": "SUSPECT - $900-1200/mo 'Remote (Global)' but self-hosted on the job board's own domain, no company detail or date"
+  },
+  {
+    "company": "Heizen",
+    "role": "Software Development Engineer (Intern)",
+    "url": "https://www.heizen.work/careers/sde-intern",
+    "pay": "INR 25,000/month + PPO of INR 12 LPA + ESOPs",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - 'Currently pursuing or recently completed degree'; students explicitly allowed",
+    "note": "Stipend is 5k BELOW the 30k floor. AI Intern variant reportedly 40k/month with 15 LPA PPO - confirm. Batch limit unstated officially; aggregators conflict (2024-2028 vs 2025-2027).",
+    "score": 9
+  },
+  {
+    "company": "Weekday (via Clera)",
+    "role": "Software Engineer Intern",
+    "url": "https://www.getclera.com/jobs/weekday/software-engineer-intern-gyeibjuqiso3",
+    "pay": "INR 30,000-50,000/month",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - 'Currently pursuing or recently completed a degree', 0 years min",
+    "note": "Clears the 30k floor but posted 19 Aug 2026 (~3 months stale), may be filled. Bengaluru remote, 2-6 months.",
+    "score": 8
+  },
+  {
+    "company": "Hyperqube Ionic",
+    "role": "SDE Intern",
+    "url": "https://thejobcompany.co.in/frontend/job_details.php?job_id=5847",
+    "surfaced_on": "2026-11-15",
+    "rejected": "batch field 2025/2026 only; INR 25,000/month; stale (updated May 2026). Stack was a match (TS/React/Next/Node)."
+  },
+  {
+    "company": "Pyrock",
+    "role": "Junior Full-Stack Developer",
+    "url": "https://jobsalertx.com/jobs/9244d6e0-6acf-4ec9-9de9-d978b8bd4499",
+    "pay": "INR 60,000/month",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - listing states 'Any Batch / Any Graduate'",
+    "note": "Six-day work week. React+TS+Cloudflare Workers+LLM+WhatsApp automation; matches MSG91 WhatsApp experience.",
+    "score": 9
+  },
+  {
+    "company": "Gravity (gravity.fast)",
+    "role": "Software Full Stack Developer",
+    "url": "https://hiredoor.in/jobs/software-full-stack-developer-e0685d",
+    "pay": "INR 10-20 LPA + equity",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "LIKELY - 'degree optional if you have shipped products', but listing also names batches 2023-2026 (conflict)",
+    "note": "Stack is near-exact match: React/TS, Node Express/NestJS, PostgreSQL+Prisma, AWS EC2/S3/RDS/Lambda, Docker/CI-CD.",
+    "score": 8.5
+  },
+  {
+    "company": "PROQAAI Private Limited",
+    "role": "Full Stack Developer",
+    "url": "https://jobsalertx.com/jobs/dd110717-a5eb-4176-a1c4-80c54f33d1de",
+    "pay": "INR 7 LPA",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - 'Any Batch / Any Graduate', freshers, no experience required",
+    "score": 8
+  },
+  {
+    "company": "Hidani Tech",
+    "role": "SDE Intern",
+    "url": "https://hiredoor.in/jobs/sde-intern-e30479",
+    "pay": "INR 20,000/month",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - batches 2027-2028 only",
+    "rejected": "below 30k floor. Stack is a bullseye (Next.js, NestJS, Prisma, AWS S3, RBAC, CI/CD). Offer if floor relaxed."
+  },
+  {
+    "company": "RevoDataLabs",
+    "role": "Full Stack Developer Intern",
+    "url": "http://hiredoor.in/jobs/full-stack-developer-intern-144944",
+    "pay": "INR 20,000/month",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - batches 2026-2028, 3rd/4th-year students",
+    "rejected": "below 30k floor"
+  },
+  {
+    "company": "HiRekruit",
+    "role": "SDE Intern",
+    "url": "https://hirekruit.com",
+    "surfaced_on": "2026-11-15",
+    "student_eligibility_2028": "ELIGIBLE - 2027/2028 batches ONLY",
+    "rejected": "UNPAID"
+  },
+  {
+    "company": "GlobalLogic India",
+    "role": "Full Stack Software Engineer (Campus Hire)",
+    "url": "https://fresherjobss.com/job/1440/full-stack-software-engineer-campus-hire",
+    "surfaced_on": "2026-11-15",
+    "rejected": "NOT ELIGIBLE - 2025/2026 batch only"
+  },
+  {
+    "company": "Gravitix Technologies",
+    "role": "Full Stack Developer (Fresher)",
+    "url": "https://ats.sphinxhireai.com/careers/gravitix-technologies/jobs/1-full-stack-developer-fresher",
+    "surfaced_on": "2026-11-15",
+    "rejected": "NOT ELIGIBLE - ATS field 'Education: Graduate'"
+  },
+  {
+    "company": "StayBoba (HustleVentures)",
+    "role": "Full-Stack Developer (College Hiring)",
+    "url": "https://careers.stayboba.com/apply/full-stack-college/",
+    "surfaced_on": "2026-11-15",
+    "rejected": "15k/mo intern then 25k/mo full-time, below floor; unpaid 1-week evaluation; 'final-year students'"
+  },
+  {
+    "company": "Zyno AI India",
+    "role": "Software Engineer - Fresher",
+    "url": "https://internshala.com/job/detail/fresher-remote-software-engineer-job-at-zyno-ai-india-private-limited1792728796",
+    "surfaced_on": "2026-11-15",
+    "rejected": "probation 15-20k/month, CTC 2.4-4.8 LPA - below floor"
+  },
+  {
+    "company": "PlayPower Labs",
+    "role": "Software Engineer",
+    "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
+    "surfaced_on": "2026-11-15",
+    "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  }
+]
