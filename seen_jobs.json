@@ -290,5 +290,243 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "Matrice AI",
+    "role": "Full-Stack Engineer (React / Go - Internship)",
+    "url": "https://matrice.ai/careers/job?id=fullstack-engineer-intern",
+    "pay": "INR 60,000-80,000/month (reported by multiple aggregators; NOT stated on official page)",
+    "surfaced_on": "2026-11-16",
+    "score": 9,
+    "student_eligibility_2028": "ELIGIBLE - official page: 'Currently pursuing or recently completed a degree in Computer Science or a related field'; no batch restriction stated",
+    "note": "Official careers page, posted 12 Nov 2026, 'Open until filled'. India (Remote), async-first. Stack: React/Next.js + TypeScript + Go API + tests. 5-min Google Form application. Verify stipend in writing."
+  },
+  {
+    "company": "Matrice AI",
+    "role": "Software Engineer (Go - Internship)",
+    "url": "https://matrice.ai/careers/job?id=2",
+    "pay": "INR 60,000-80,000/month (reported; NOT on official page)",
+    "surfaced_on": "2026-11-16",
+    "score": 9,
+    "student_eligibility_2028": "ELIGIBLE - 'Currently pursuing or recently completed a degree'",
+    "note": "Official careers page, posted 12 Nov 2026, 'Open until filled'. India (Remote). Backend Go services, MongoDB, Kafka, Redis. Go is new for the candidate; APIs/DB/Docker transfer directly."
+  },
+  {
+    "company": "Matrice AI",
+    "role": "ML Engineer (Computer Vision - Internship)",
+    "url": "https://matrice.ai/careers",
+    "surfaced_on": "2026-11-16",
+    "note": "Third Matrice internship, India (Remote), same eligibility and reported stipend band. NOT recommended: computer-vision/ML stack is a weak match for a TS/Next/Node profile. Listed for completeness."
+  },
+  {
+    "company": "Proofline",
+    "role": "Software Engineering Intern - Developer Tools",
+    "url": "https://proofline.sh/careers/software-engineering-intern/",
+    "surfaced_on": "2026-11-16",
+    "status": "WATCHLIST - pay not disclosed",
+    "note": "Berlin startup. Fully remote, paid, 3-6 months. Explicitly: no degree, no student status, no prior internship or professional experience required. India-eligible ('authorization to work in your country of residence'). Stack: CLI, Python + TypeScript SDKs, AWS/GCP, Chrome extension. Compensation 'depends on your location, shared before first interview' - cannot confirm the 30k floor. Application requires a real PR to their repo + 2-min narrated walkthrough, emailed to intern-applicants@proofline.sh."
+  },
+  {
+    "company": "Codex / Logos Storage",
+    "role": "Students Programme: Junior Developer",
+    "url": "https://job-boards.greenhouse.io/codex/jobs/6918941",
+    "surfaced_on": "2026-11-16",
+    "rejected": "Greenhouse board now reads 'There are no current openings.' Programme (web3, ~$2,000/mo for PhD, adjusted for Bachelor's) appears closed."
+  },
+  {
+    "company": "Ressl AI / Standout (via OneRoadmap)",
+    "role": "Software Engineering Intern",
+    "url": "https://www.oneroadmap.io/jobs/6ac0b75936c2e1375dc91791",
+    "surfaced_on": "2026-11-16",
+    "rejected": "Third-party intro broker page, not an employer ATS; company identity mashed up (Standout vs Ressl AI); tagged 'Visa Sponsorship'; $25k-$75k figure is annual and unverified. Listed 1mo ago."
+  },
+  {
+    "company": "TraceRoot.AI (YC S25)",
+    "role": "Software Engineering Intern",
+    "url": "https://www.ycombinator.com/companies/traceroot-ai/jobs/RCbNRRq-software-engineering-intern",
+    "surfaced_on": "2026-11-16",
+    "rejected": "$4K-$8K/month and perfect stack (React/TS/Node) BUT requires in-person work with founders in San Francisco 3 days/week. Not remote."
+  },
+  {
+    "company": "Wedge (YC S25)",
+    "role": "Software Engineering Intern",
+    "url": "https://www.ycombinator.com/companies/wedge/jobs/QUqm8YJ-software-engineering-intern",
+    "surfaced_on": "2026-11-16",
+    "rejected": "$3K-$8K/month but 'US citizen/visa only' and in-person San Francisco."
+  },
+  {
+    "company": "Venu AI (YC W21)",
+    "role": "Software Engineering Intern",
+    "url": "https://www.ycombinator.com/companies/venu-ai/jobs/4gnWuWW-software-engineering-intern",
+    "surfaced_on": "2026-11-16",
+    "rejected": "UNPAID (listed at '$1'). Remote, no visa requirement, but explicitly unpaid part-time."
+  },
+  {
+    "company": "Alai (YC)",
+    "role": "Software Engineer Intern",
+    "url": "https://thejobcompany.co.in/frontend/job_details?job_id=3283",
+    "surfaced_on": "2026-11-16",
+    "rejected": "$800-$1,000/month work-from-home would clear the floor, but batches 2024/2025/2026 only and listing last updated April 2025 (stale)."
+  },
+  {
+    "company": "Warrn",
+    "role": "Developer Intern",
+    "url": "https://www.globalsouthopportunities.com/2026/08/09/warrn/",
+    "surfaced_on": "2026-11-16",
+    "rejected": "INR 25,000-40,000/month - bottom of band below floor, not guaranteed; posted Aug 2026 (stale). Remote India only. Stack skews Python/Django over Next.js/TS."
+  },
+  {
+    "company": "SuperKalam (YC W23)",
+    "role": "Fullstack Engineer Internship",
+    "url": "https://www.ycombinator.com/companies/superkalam/jobs/W9Igwf9-fullstack-engineer-internship",
+    "surfaced_on": "2026-11-16",
+    "rejected": "INR 25,000-35,000/month (bottom below floor), 'School year: Senior and above', batches 2025/2026/2027, and 'previous internship experience is a must'. 2028 batch not eligible. YC board currently lists no open fullstack engineering internship."
+  },
+  {
+    "company": "Isocode Labs",
+    "role": "Software Engineering Intern",
+    "url": "https://www.rajuperumalla.in/decode/jobs/isocode-labs-software-engineering-intern",
+    "surfaced_on": "2026-11-16",
+    "rejected": "INR 50,000/month fully remote, but eligibility is 2026 and 2027 batches only."
+  },
+  {
+    "company": "AiStudio Artificial Intelligence Technologies",
+    "role": "Forward Deployed Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/aistudio/b4a4f30b-ea11-41c7-bb46-9984165d768b",
+    "surfaced_on": "2026-11-16",
+    "rejected": "Was INR 60,000/month remote, batches 2025-2028 (Oct 2026). Role no longer on their Ashby board - only 'Deployment Strategist (Italy), Onsite' remains. Closed."
+  },
+  {
+    "company": "Cardinality.ai (Cardy AI)",
+    "role": "Full Stack Developer Intern",
+    "url": "https://talynce.com/jobs/9845cf11-2ef7-4dc8-9ce6-6984a16c3404",
+    "surfaced_on": "2026-11-16",
+    "rejected": "Posted 13 Nov 2026, Remote India, 10 openings, stack match (TypeScript/NestJS/PostgreSQL). But requires 'a recent graduate' and no stipend is stated. Revisit if pay published and student status allowed."
+  },
+  {
+    "company": "SKOOLLAGE",
+    "role": "MERN Stack Development Intern",
+    "url": "https://jobfound.org/job/skoollage-is-hiring-for-mern-stack-development-intern-india-india-14-november-2026",
+    "surfaced_on": "2026-11-16",
+    "rejected": "Posted 14 Nov 2026, remote, but 'Performance-Based, up to INR 30,000' - not a guaranteed stipend; also requires a completed bachelor's degree."
+  },
+  {
+    "company": "Nostavia",
+    "role": "Backend Engineering Intern - Health Data Integrations",
+    "url": "https://veyrai.world/jobs/nostavia-backend-engineering-intern-health-data-integrations",
+    "surfaced_on": "2026-11-16",
+    "rejected": "Starts at INR 25,000/month (below floor) with discretionary 2x-5x escalation. Python/FastAPI-leaning, not TS."
+  },
+  {
+    "company": "Metasys",
+    "role": "Solution Architect Internship",
+    "url": "https://www.oneroadmap.io/jobs/6addfa08534ccf2640afaa95",
+    "surfaced_on": "2026-11-16",
+    "rejected": "UNPAID ('Stipend: None initially'). Remote Worldwide and the stack is a near-perfect match (Node 22, NestJS, TS, Next.js 14, PostgreSQL 15 RLS, Terraform, Docker) - revisit only if they fund it."
+  },
+  {
+    "company": "Hidani Tech",
+    "role": "SDE Intern (US-listed variant)",
+    "url": "https://www.jobleads.com/us/job/sde-intern--united-states--e8ae505e6066695f5e2262a068cd4648b",
+    "surfaced_on": "2026-11-16",
+    "rejected": "Same bullseye stack as the India listing already seen (Next.js/NestJS/Prisma/AWS, batch 2027/2028), but this variant is applicantLocationRequirements: United States. India variant pays INR 20,000/month - below floor. Employer profile verification pending on hiredoor."
+  },
+  {
+    "company": "RoleNest (rolenest.in)",
+    "role": "Junior Full-Stack Engineer 'Internship'",
+    "url": "https://rolenest.in/internships/junior-full-stack-engineer-mv8229fv",
+    "surfaced_on": "2026-11-16",
+    "rejected": "SUSPECT DOMAIN - self-hosted listing with no real employer, 'INR 12 LPA internship', template FAQ text with unrendered '$' variables ('$RoleNest', '$REMOTE'). Blocklist."
+  },
+  {
+    "company": "Dexterz Technology",
+    "role": "Full Stack Web Development Intern",
+    "url": "https://jobluu.com/jobs/full-stack-web-development-intern-remote-jobs-in-remote-at-dexterz-technology-fresher-id-6af9fa2be687f5027aca42f0",
+    "surfaced_on": "2026-11-16",
+    "rejected": "INR 5,000-10,000/month, performance-based."
+  },
+  {
+    "company": "Zeocra Innovations",
+    "role": "Software Developer Internship",
+    "url": "https://www.insiderone.in/jobs/software-developer-internship-at-zeocra-innovations-remote-8aafe5e0-dbca-448d-9836-3b74aa18af88",
+    "surfaced_on": "2026-11-16",
+    "rejected": "UNPAID. Stack was an exact match (React/TS/Node/Express/PostgreSQL/RBAC/PDF gen)."
+  },
+  {
+    "company": "PhrasIQ",
+    "role": "Software Engineer Internship",
+    "url": "https://wellfound.com/jobs/4329761-software-engineer-internship",
+    "surfaced_on": "2026-11-16",
+    "rejected": "UNPAID (stated explicitly). Remote Everywhere, TS/React/PostgreSQL."
+  },
+  {
+    "company": "DoCoDeGo",
+    "role": "SDE Intern (TypeScript/Python)",
+    "url": "https://www.linkedin.com/posts/mayank-tomar-9bba0613b_hiring-workfromhome-freshers-activity-7469663262876430336-za0e",
+    "surfaced_on": "2026-11-16",
+    "rejected": "INR 15,000/month, below floor. Australia HQ, fully remote, TS/React/Cloudflare Workers."
+  },
+  {
+    "company": "Indrashikha Educational",
+    "role": "Software Engineering Intern (6 months)",
+    "url": "https://indrashikha.com/careers/software-engineering-intern/",
+    "surfaced_on": "2026-11-16",
+    "rejected": "INR 15,000-25,000/month, below floor. Also 'final-year students / freshers'."
+  },
+  {
+    "company": "Yalla & Co.",
+    "role": "Full Stack Engineer Intern (Remote)",
+    "url": "https://wellfound.com/jobs/5078008-full-stack-engineer-intern-remote",
+    "surfaced_on": "2026-11-16",
+    "rejected": "INR 1,000-5,000, performance-based. Posted yesterday but far below floor."
+  },
+  {
+    "company": "Enegma",
+    "role": "Full Stack Engineering Intern",
+    "url": "https://wellfound.com/jobs/4670321-full-stack-engineering-intern",
+    "surfaced_on": "2026-11-16",
+    "rejected": "INR 12,000-15,000/month. Python/FastAPI-leaning."
+  },
+  {
+    "company": "Explyra",
+    "role": "Full-Stack Developer Intern (Next.js + AI/Edge)",
+    "url": "https://peerlist.io/company/explyras/careers/fullstack-developer-intern/jobhbar7rerdoqp8dhbneker9qoga8",
+    "surfaced_on": "2026-11-16",
+    "rejected": "ARCHIVED listing; compensation INR 2k/year."
+  },
+  {
+    "company": "Scorelabs Inc",
+    "role": "Frontend Developer Intern",
+    "url": "https://hiredoor.in/jobs/frontend-developer-intern-748723",
+    "surfaced_on": "2026-11-16",
+    "rejected": "INR 20,000/month, below floor (batches 2026-2028 would have qualified). Applications via WhatsApp - low trust."
+  },
+  {
+    "company": "Guidanz Inc",
+    "role": "Software Engineer Intern",
+    "url": "https://www.linkedin.com/posts/debugwithshubham_adbrew-sde-intern-for-2025-2026-grads-activity-7502345666757775360-8A17",
+    "surfaced_on": "2026-11-16",
+    "rejected": "INR 25,000/month remote, 2027/2028 grads. Below floor; only a LinkedIn aggregator post, no direct ATS link."
+  },
+  {
+    "company": "refundrebel",
+    "role": "Working Student, Software Development, Node.js",
+    "url": "https://kickstartremote.com/remote-jobs/working-student-software-development-node-js-worldwide-remote-5971",
+    "surfaced_on": "2026-11-16",
+    "rejected": "100% remote within GERMANY only; requires German at C1 level."
+  },
+  {
+    "company": "Hyperbrowser",
+    "role": "Growth Engineer Intern",
+    "url": "https://www.ycombinator.com/companies/hyperbrowser/jobs/1LZDDAF-growth-engineer-intern",
+    "surfaced_on": "2026-11-16",
+    "rejected": "Tagged remote-India but listing states 'US citizen/visa only'. Growth, not core engineering."
+  },
+  {
+    "company": "DataRobot",
+    "role": "Software Design Engineer Intern",
+    "url": "https://www.career.msstate.edu/jobs/datarobot-software-design-engineer-intern/",
+    "surfaced_on": "2026-11-16",
+    "rejected": "Fully remote and 6 months, but locations are US + Remote Canada-ON, and requires a completed/recent Bachelor's or Master's."
   }
 ]
