@@ -290,5 +290,161 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "Alchemyst AI",
+    "role": "Full Stack AI Engineer Intern",
+    "url": "https://wellfound.com/jobs/4126022-full-stack-ai-engineer-intern",
+    "pay": "INR 1.8L - 6L (approx INR 15,000 - 50,000/month)",
+    "surfaced_on": "2026-11-17",
+    "score": 8.5,
+    "student_eligibility_2028": "ELIGIBLE - 'No experience required' + '0-1 years of experience'; no batch or degree gate",
+    "note": "Remote (Everywhere). Singapore+Bengaluru, $900K raised over 2 rounds, Fortune 500 clients, ~10 people. Stack: Next.js/React/strict TypeScript/WebSockets/streaming UI. RISK: low end of pay band (INR 15k/mo) is below the 30k floor - must pin stipend down before investing time."
+  },
+  {
+    "company": "Seedoly",
+    "role": "Software Engineer Intern",
+    "url": "https://jobfound.org/job/seedoly-is-hiring-for-software-engineer-intern-india-india-19-october-2026",
+    "pay": "INR 32,000 - 40,000/month",
+    "surfaced_on": "2026-11-17",
+    "score": 8,
+    "student_eligibility_2028": "ELIGIBLE - 'Enrolled in, or recently completed, a degree or diploma' - no batch gate",
+    "note": "Digital venture studio, 3-month paid internship, India remote, full time. TypeScript/Next.js/Tailwind listed as preferred. Clears floor comfortably. CAVEAT: posted 19 Oct 2026, ~4 weeks old, outside the 24-72h freshness window - may be filled. Apply via LinkedIn."
+  },
+  {
+    "company": "Broadcastwell LLC",
+    "role": "Software Engineering Intern, TypeScript",
+    "url": "https://wellfound.com/jobs/4785326-software-engineering-intern-typescript",
+    "pay": "INR 30,000/month gross fixed (12 weeks, 20 hrs/week)",
+    "surfaced_on": "2026-11-17",
+    "score": 8,
+    "student_eligibility_2028": "ELIGIBLE - 'No experience required'; only gate is age 18+ and legally eligible to work in India",
+    "note": "Remote, India only. Exactly meets the 30k floor. RED FLAG TO PROBE: listing carries unusual disclaimers about 'Launchpad', 'the Exchange', referrals and revenue generation, plus 'EOR employment is planned' and 'nobody is hired before lawyer review'. Confirm this is a straight paid engineering role and not tied to a paid program or referral scheme before applying."
+  },
+  {
+    "company": "Offshore Minds",
+    "role": "Software Engineer Intern",
+    "url": "https://jobfound.org/job/offshore-minds-is-hiring-for-software-engineer-intern-remote-india-16-november-2026",
+    "surfaced_on": "2026-11-17",
+    "rejected": "INR 10,000-15,000/month - below 30k floor. Posted 16 Nov 2026 (fresh), remote India, students welcome, PPO path, AI/agentic CRE product. Stack match was decent (TS/React/Node/Postgres). Offer only if floor relaxed."
+  },
+  {
+    "company": "CodeVector Labs",
+    "role": "Software Development Intern (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-codevector-labs1794819334",
+    "surfaced_on": "2026-11-17",
+    "rejected": "INR 20,000-25,000/month - below floor. Stack was a near-bullseye (TypeScript/React/Next.js/Node/PostgreSQL, PR reviews, 8 LPA PPO). Also gates on 2027 batch or 2025-26 grads unless full-time for 6 months."
+  },
+  {
+    "company": "Floneo Technologies",
+    "role": "Full Stack Development Intern (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-floneo1794559889",
+    "surfaced_on": "2026-11-17",
+    "rejected": "INR 6,000-10,000/month - well below floor, 659 applicants. Stack was an exact match (Next.js/TS/Node/Express/Prisma/PostgreSQL/Tailwind)."
+  },
+  {
+    "company": "OORO",
+    "role": "Full-Stack Software Development Intern",
+    "url": "https://jobfound.org/job/ooro-is-hiring-for-full-stack-software-development-intern-india-india-28-october-2026",
+    "surfaced_on": "2026-11-17",
+    "rejected": "INR 8,000-15,000/month - below floor. React/TS/Node/PostgreSQL/Prisma/Docker, India remote."
+  },
+  {
+    "company": "Emetlab",
+    "role": "Junior Software Engineer",
+    "url": "https://himalayas.app/companies/emetlab/jobs/junior-software-engineer",
+    "surfaced_on": "2026-11-17",
+    "rejected": "US ONLY. Aggregators (reallyremote.co, applypick, withmira) mis-tagged this as 'Worldwide - anyone anywhere can apply'; the authoritative Himalayas listing and Built In both state location requirement United States. Est. $1,500-2,500/month. Do not trust 'worldwide' tags from these three sites without checking the source."
+  },
+  {
+    "company": "Codebridge Technology, Inc.",
+    "role": "Junior Full Stack Developer (React + Node.js)",
+    "url": "https://jobs.dou.ua/companies/codebridge-technology/vacancies/380130/",
+    "surfaced_on": "2026-11-17",
+    "rejected": "Kyiv, Ukraine remote (posted on DOU, a Ukrainian board) - India eligibility unconfirmed, no pay stated. Posted 16 Nov 2026 and the stack was an exact match incl. NestJS. Same failure mode as Lumitech on 2026-11-15."
+  },
+  {
+    "company": "ASG Company / ASG Platform",
+    "role": "Full Stack Developer Intern",
+    "url": "https://himalayas.app/companies/asg-company/jobs/full-stack-developer-intern",
+    "surfaced_on": "2026-11-17",
+    "rejected": "'Job opening exclusive only to Filipino locals' + 1 year minimum experience. Himalayas 'open to candidates from all countries' tag is wrong."
+  },
+  {
+    "company": "Sittsy",
+    "role": "Founding Engineer - Full Stack TypeScript",
+    "url": "https://freehire.me/jobs/founding-engineer-full-stack-typescript-remote-sittsy-7ksdnohb",
+    "surfaced_on": "2026-11-17",
+    "rejected": "Paris / France / Europe region; full-time founding engineer at $60-70k/yr, not a 0-1yr or student role. Stack matched exactly (TS/Next.js/Node/PostgreSQL)."
+  },
+  {
+    "company": "US-only early-career roles (batch)",
+    "role": "various intern / new grad",
+    "url": "https://careers.usf.edu/jobs/ovo-talent-software-engineering-intern/",
+    "surfaced_on": "2026-11-17",
+    "rejected": "US only: OVO Talent (must live in Texas), Synthetic Labs Co., Vecchio Industries, Taistit (UW students only), DataRobot Software Design Engineer Intern (US/Canada-ON), Espa Labs (SF hybrid/remote-first), Realm (new grad, degree completed 2025)."
+  },
+  {
+    "company": "RemoteJobsOne",
+    "role": "Software Engineer, New Grad - Remote (Worldwide)",
+    "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-new-grad-remote-worldwide",
+    "surfaced_on": "2026-11-17",
+    "rejected": "SUSPECT LEAD-GEN FUNNEL - do not apply. India IS in applicantLocationRequirements and it is tagged entry-level, but: 'RemoteJobsOne' is itself described as a job board not an employer; headline pay $180-250k/yr for a new grad contradicts its own body text ($110-150k base); 'after you apply check your email, we send a link to complete your application'; posting dates conflict across mirrors (8 Oct / 25 Oct / 11 Nov); syndicated across 10+ scraper domains with a Jacksonville FL address."
+  },
+  {
+    "company": "Kapybara",
+    "role": "Next.js Developer - Intern",
+    "url": "https://www.remoterocketship.com/company/kapybara-company/jobs/next-js-developer-intern-india-remote/",
+    "surfaced_on": "2026-11-17",
+    "rejected": "Pay not disclosed, cannot confirm 30k floor. STRONG REVISIT: posted 16 Nov 2026 on the company's own careers page (not an aggregator), India-Remote, entry-level internship, explicitly 'no degree required', 'build with the founding team', stack is Next.js 15 / TypeScript / React / PostgreSQL / App Router + server components. Ghost score 15%. Ask the stipend directly."
+  },
+  {
+    "company": "Storyvord",
+    "role": "Full Stack Developer Intern",
+    "url": "https://jobfound.org/job/storyvord-is-hiring-for-full-stack-developer-intern-india-india-4-november-2026",
+    "surfaced_on": "2026-11-17",
+    "rejected": "Stipend 'to be decided' - cannot confirm floor. REVISIT: London-based AI film production platform, fully remote, 6 months, Next.js/TypeScript/PostgreSQL/LLM features, machine coding round. Posted 4 Nov 2026."
+  },
+  {
+    "company": "Pixibo",
+    "role": "Junior Frontend Engineer - Remote",
+    "url": "https://donator.ge/en/jobs/it/junior-frontend-engineer-remote-pixibo-af875f",
+    "surfaced_on": "2026-11-17",
+    "rejected": "Pay not published and asks ~1+ year. REVISIT: genuinely location-unrestricted ('apply from anywhere', passed an automated check excluding visa/citizenship/residence conditions), React/Node/TypeScript/AWS, Asia-based with SEA+Europe clients. Active until 4 Dec 2026."
+  },
+  {
+    "company": "AccuKnox",
+    "role": "FE Trainee",
+    "url": "https://himalayas.app/companies/accuknox/jobs/fe-trainee",
+    "surfaced_on": "2026-11-17",
+    "rejected": "Pay not disclosed. REVISIT: entry-level trainee, location requirement India, remote, React/TypeScript/Next.js/Redux/Zustand/Playwright/CI-CD. Posted 11 Oct 2026, apply before 10 Dec 2026."
+  },
+  {
+    "company": "Mystical Views Private Limited",
+    "role": "Full Stack Developer Internship",
+    "url": "https://unstop.com/internships/full-stack-developer-internship-mystical-views-private-limited-1806812",
+    "surfaced_on": "2026-11-17",
+    "rejected": "IN OFFICE, Gurgaon - fails the 100% remote filter. Noted because the stack is the single closest match seen so far: Node.js + NestJS + TypeScript + React + Next.js + Tailwind + PostgreSQL schemas + Redis + CI/CD. Open to undergraduates. Updated 12 Nov 2026."
+  },
+  {
+    "company": "Stallion SI",
+    "role": "Full-Stack Engineering Intern",
+    "url": "https://www.linkedin.com/posts/aditya-sharma-80b761198_hiring-internship-fullstackdeveloper-activity-7422864685898780673-zP3O",
+    "surfaced_on": "2026-11-17",
+    "rejected": "STALE - posted 30 Jan 2026 (~10 months). Was Remote India only, paid, React/Next.js + Node Express/NestJS + RBAC + PostgreSQL, intern-to-full-time. Exact stack fit if it ever reopens; career@stallionsi.com."
+  },
+  {
+    "company": "OpenHands",
+    "role": "Software Engineering Intern",
+    "url": "https://www.linkedin.com/posts/stephenleshko_internationalstudents-hiring-swe-activity-7397719700895449089-gHFX",
+    "surfaced_on": "2026-11-17",
+    "rejected": "STALE - Nov 2025 post for Summer 2026. $8,000/month, remote worldwide, 'international students welcome, no visa required for remote work', Python/TypeScript/React/Next.js, no professional experience required. HIGHEST-VALUE TARGET SEEN: watch for the 2027 cycle reopening."
+  },
+  {
+    "company": "Weekday (duplicate sighting)",
+    "role": "Software Engineer Intern",
+    "url": "https://internfreak.com/software-engineer-internship-2026/",
+    "surfaced_on": "2026-11-17",
+    "rejected": "DUPLICATE of the Weekday/Clera listing already logged 2026-11-15 - same INR 30,000-50,000/month, Bengaluru remote, 0 years min, 'currently pursuing or recently completed a degree', 2-6 months. Surfaced via internfreak as an anonymised 'client of the recruiting platform'."
   }
 ]
