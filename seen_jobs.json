@@ -290,5 +290,295 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "Skylarq AI",
+    "role": "Full-Stack Engineering Intern - Application-Layer AI",
+    "url": "https://www.remotery.co/job/remote-full-stack-engineering-intern-application-layer-ai-at-skylarq-ai-in-anywhere-in-the-world-internship-1349af",
+    "pay": "Competitive full-time salary (USD), amount not published",
+    "surfaced_on": "2026-11-18",
+    "score": 9,
+    "student_eligibility_2028": "ELIGIBLE - Internship, Entry-level, 'Anywhere in the World', no degree/batch/years bar stated"
+  },
+  {
+    "company": "micro1",
+    "role": "Software Engineer - Backend (RL Environments)",
+    "url": "https://hiring.sojistudio.com/jobs/software-engineer-backend-rl-environments",
+    "pay": "$50-$100/hr, output-based, ~10-15 hrs/week (~$2,000-$3,000/month)",
+    "surfaced_on": "2026-11-18",
+    "score": 9,
+    "student_eligibility_2028": "ELIGIBLE - skill-based global contractor, no years-of-experience bar on this posting, worldwide"
+  },
+  {
+    "company": "GreatFrontEnd",
+    "role": "Front End Software Engineer Intern",
+    "url": "https://www.greatfrontend.com/jobs/front-end-software-engineer-intern",
+    "pay": "Paid, 'to be discussed' - amount not published",
+    "surfaced_on": "2026-11-18",
+    "score": 8,
+    "student_eligibility_2028": "ELIGIBLE - paid, fully remote, explicitly open to international applicants",
+    "note": "near miss: pay amount and posting date not published"
+  },
+  {
+    "company": "DarkRange Systems",
+    "role": "Software Engineering Intern",
+    "url": "https://darkrange.ai/careers/software-engineering-intern-remote",
+    "pay": "'Competitive comp & equity' - amount not published",
+    "surfaced_on": "2026-11-18",
+    "score": 7,
+    "student_eligibility_2028": "ELIGIBLE - CS student or recent grad, remote-first with India hub",
+    "note": "near miss: pay amount and posting date not published"
+  },
+  {
+    "company": "Quayutec",
+    "role": "Founding AI Engineer",
+    "url": "https://www.quayutec.com/careers/founding-ai-engineer",
+    "surfaced_on": "2026-11-18",
+    "rejected": "pay not stated; requires shipped production MCP server / AI agent systems - stack bar beyond profile"
+  },
+  {
+    "company": "Emetlab",
+    "role": "Junior Software Engineer",
+    "url": "https://himalayas.app/companies/emetlab/jobs/junior-software-engineer",
+    "surfaced_on": "2026-11-18",
+    "rejected": "location requirement: United States only"
+  },
+  {
+    "company": "Weekday",
+    "role": "Software Engineer Intern (Lever)",
+    "url": "https://jobs.lever.co/weekdayworks/a86efff4-1c2e-43fc-8ecb-dc8f873db2f1",
+    "surfaced_on": "2026-11-18",
+    "rejected": "duplicate company+role already in seen_jobs (entry 24)"
+  },
+  {
+    "company": "Binance",
+    "role": "Binance Accelerator Program - Applied AI Application Engineer",
+    "url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
+    "surfaced_on": "2026-11-18",
+    "rejected": "expected graduation 2026 or 2027 only; 2028 batch not eligible"
+  },
+  {
+    "company": "Propily",
+    "role": "Full-Stack Engineer Intern - React, Next.js & Python",
+    "url": "https://www.reactremotejobs.com/job/propily-full-stack-engineer-intern-react-next-js-python-remote-uk",
+    "surfaced_on": "2026-11-18",
+    "rejected": "UK only; credit-bearing placement (unpaid)"
+  },
+  {
+    "company": "GovSignals",
+    "role": "Product Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9",
+    "surfaced_on": "2026-11-18",
+    "rejected": "US defence contractor (FedRAMP High / DoW IL5); start date already passed"
+  },
+  {
+    "company": "Deepgram",
+    "role": "Software Engineering Internship (Fall 2026/Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/Deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+    "surfaced_on": "2026-11-18",
+    "rejected": "USA - Remote only"
+  },
+  {
+    "company": "DataRobot",
+    "role": "Software Design Engineer Intern",
+    "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Software-Design-Engineer-Intern_R-102764",
+    "surfaced_on": "2026-11-18",
+    "rejected": "US/Canada locations only; recent graduates"
+  },
+  {
+    "company": "Sardine",
+    "role": "Remote Engineering Internship: TS/Go/React",
+    "url": "https://www.jobleads.com/us/job/remote-engineering-internship-ts-go-react-3-months--united-states--e5b241dbe6d4ea97a5ef1090a8a65f004",
+    "surfaced_on": "2026-11-18",
+    "rejected": "United States / Canada only"
+  },
+  {
+    "company": "Nika",
+    "role": "Software Engineering Intern",
+    "url": "https://wellfound.com/jobs/4496881-software-engineering-intern",
+    "surfaced_on": "2026-11-18",
+    "rejected": "hires remotely only in Canada/Europe/HK/SG/US; India not eligible"
+  },
+  {
+    "company": "OneJar",
+    "role": "Junior Full-Stack Engineer",
+    "url": "https://www.remotery.co/job/remote-junior-full-stack-engineer-at-onejar-in-greece-full-time-dee030",
+    "surfaced_on": "2026-11-18",
+    "rejected": "Greece/Cyprus only; 1-2 yrs professional experience"
+  },
+  {
+    "company": "graphycs",
+    "role": "Founding Engineer (Intern)",
+    "url": "https://www.graphycs.de/careers/founding-engineer-(intern)",
+    "surfaced_on": "2026-11-18",
+    "rejected": "Remote (Europe) only"
+  },
+  {
+    "company": "OpsBox AI",
+    "role": "Full-Stack Engineer (TypeScript, Next.js, Postgres)",
+    "url": "https://www.getonbrd.com/jobs/programming/full-stack-engineer-typescript-next-js-postgres-opsbox-ai-remote",
+    "surfaced_on": "2026-11-18",
+    "rejected": "3-6 yrs experience; LatAm residents only"
+  },
+  {
+    "company": "PERCO.AI / CaelumenAI",
+    "role": "AI Agent Engineer - Early Career",
+    "url": "https://perco.ai/jobs/ai-agent-engineer-early-career",
+    "surfaced_on": "2026-11-18",
+    "rejected": "requires US work authorization"
+  },
+  {
+    "company": "Tsenta",
+    "role": "Founding Engineer",
+    "url": "https://jobs.ashbyhq.com/Tsenta/6f260369-fb1b-4025-abd3-ec48c2087c14",
+    "surfaced_on": "2026-11-18",
+    "rejected": "USA only; 3+ yrs experience"
+  },
+  {
+    "company": "Terac",
+    "role": "Founding Engineer",
+    "url": "https://jobs.ashbyhq.com/terac/575c045f-fbef-4889-b558-a3c2bd6b60d6",
+    "surfaced_on": "2026-11-18",
+    "rejected": "on-site San Francisco; 3+ yrs"
+  },
+  {
+    "company": "AutoSitu",
+    "role": "Founding Engineer - Arkhe",
+    "url": "https://www.ycombinator.com/companies/autositu/jobs/CvB6tcr-founding-engineer-arkhe",
+    "surfaced_on": "2026-11-18",
+    "rejected": "US citizen/visa only"
+  },
+  {
+    "company": "Hirebeam.ai",
+    "role": "Founding Engineer",
+    "url": "https://www.linkedin.com/jobs/view/founding-engineer-at-hirebeam-ai-4446777587",
+    "surfaced_on": "2026-11-18",
+    "rejected": "5+ yrs; Remote US only"
+  },
+  {
+    "company": "TraceRoot.AI",
+    "role": "Software Engineering Intern",
+    "url": "https://www.ycombinator.com/companies/traceroot-ai/jobs/RCbNRRq-software-engineering-intern",
+    "surfaced_on": "2026-11-18",
+    "rejected": "requires in-person work with founders in SF at least 3 days/week"
+  },
+  {
+    "company": "Clera",
+    "role": "Founding Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/Clera/d3c69268-3324-4a84-b911-7a4303672767",
+    "surfaced_on": "2026-11-18",
+    "rejected": "on-site San Francisco + LatAm hacker houses"
+  },
+  {
+    "company": "RoleNest",
+    "role": "Junior Full-Stack Engineer Internship",
+    "url": "https://rolenest.in/internships/junior-full-stack-engineer-mv8229fv",
+    "surfaced_on": "2026-11-18",
+    "rejected": "synthetic/template listing (unresolved $ placeholders, board is also the 'company'); 2024-2026 batches"
+  },
+  {
+    "company": "Seedoly",
+    "role": "Software Engineer Intern",
+    "url": "https://jobfound.org/job/seedoly-is-hiring-for-software-engineer-intern-india-india-19-october-2026",
+    "surfaced_on": "2026-11-18",
+    "rejected": "stipend Rs 32-40k/month qualifies but posted 19 Oct 2026 - outside 72h freshness window"
+  },
+  {
+    "company": "Offshore Minds",
+    "role": "Software Engineer Intern",
+    "url": "https://jobfound.org/job/offshore-minds-is-hiring-for-software-engineer-intern-remote-india-16-november-2026",
+    "surfaced_on": "2026-11-18",
+    "rejected": "stipend Rs 10-15k/month - below Rs 30k floor"
+  },
+  {
+    "company": "CodeVector Labs",
+    "role": "Software Development Internship (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-codevector-labs1794819334",
+    "surfaced_on": "2026-11-18",
+    "rejected": "Rs 20-25k/month - below floor; 2027 batch / recent grads"
+  },
+  {
+    "company": "Floneo",
+    "role": "Full Stack Development Internship (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-floneo1794559889",
+    "surfaced_on": "2026-11-18",
+    "rejected": "Rs 6-10k/month - below floor"
+  },
+  {
+    "company": "OpalCode",
+    "role": "Full Stack Development Internship (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-opalcode1793619432",
+    "surfaced_on": "2026-11-18",
+    "rejected": "Rs 20-28k/month incl. incentives - below floor"
+  },
+  {
+    "company": "Codeatrix",
+    "role": "Full Stack Development Internship (WFH, Part Time)",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-codeatrix1793717475",
+    "surfaced_on": "2026-11-18",
+    "rejected": "Rs 20-27k/month incl. incentives - below floor"
+  },
+  {
+    "company": "Reducate.ai",
+    "role": "Full Stack Development Internship (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-reducateai1794579599",
+    "surfaced_on": "2026-11-18",
+    "rejected": "Rs 10-15k/month - below floor"
+  },
+  {
+    "company": "Octaviaflow",
+    "role": "Full Stack Developer Intern (Node.js)",
+    "url": "https://octaviaflow.com/careers/full-stack-developer-intern-node-js",
+    "surfaced_on": "2026-11-18",
+    "rejected": "stipend not stated (asks candidate to name expected INR stipend); no posting date"
+  },
+  {
+    "company": "SnapVibr",
+    "role": "Software Engineering Intern (100% Remote Worldwide)",
+    "url": "https://www.snapvibr.com/careers/software-engineering-intern",
+    "surfaced_on": "2026-11-18",
+    "rejected": "no pay stated; posted 15 Oct 2026 - outside freshness window"
+  },
+  {
+    "company": "Migsak",
+    "role": "Software Developer Intern",
+    "url": "https://www.migsak.com/careers/software-developer-intern",
+    "surfaced_on": "2026-11-18",
+    "rejected": "unpaid for first 3 months"
+  },
+  {
+    "company": "Blockchain Council",
+    "role": "Web Development Internship (Blockchain Focus)",
+    "url": "https://www.blockchain-council.org/job/web-development-internship/",
+    "surfaced_on": "2026-11-18",
+    "rejected": "$2,000/month claimed but no posting date, no location eligibility, certification-vendor listing - unverifiable"
+  },
+  {
+    "company": "APX (Aster)",
+    "role": "Tech Ops Intern (Web3)",
+    "url": "https://interninsider.me/internships/apx-now-aster/tech-ops-intern-web3-e1bd711c-fd17-47e3-9c05-d3a92f8cc625",
+    "surfaced_on": "2026-11-18",
+    "rejected": "ops/support role not SWE; pay not stated"
+  },
+  {
+    "company": "WOO X",
+    "role": "Junior Engineer - AI Product",
+    "url": "https://www.cryptojobs.com/job/junior-engineer-ai-product-8024",
+    "surfaced_on": "2026-11-18",
+    "rejected": "no posting date, no pay, no location eligibility published - unverifiable freshness"
+  },
+  {
+    "company": "Pear Protocol",
+    "role": "AI and Web3 Intern",
+    "url": "https://tally.so/r/0Qkge9",
+    "surfaced_on": "2026-11-18",
+    "rejected": "posted June 2026 - stale"
+  },
+  {
+    "company": "workpivot.online listing",
+    "role": "Full Stack Developer Intern (AI Focus)",
+    "url": "https://workpivot.online/remote-jobs/full-stack-developer-intern-ai-focus-class-of-2026-conversion-opportunity",
+    "surfaced_on": "2026-11-18",
+    "rejected": "Class of 2026 only"
   }
 ]
