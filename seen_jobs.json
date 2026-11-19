@@ -290,5 +290,223 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "ISOCODELABS (Isocode)",
+    "role": "Software Engineering Intern",
+    "url": "https://careers.isocodelabs.com/roles/software-engineering-intern",
+    "pay": "INR 50,000/month fixed",
+    "surfaced_on": "2026-11-19",
+    "score": 9,
+    "student_eligibility_2028": "ELIGIBLE - no batch, degree or years-of-experience gate; proof-of-work hiring, 6-month remote internship",
+    "note": "Remote; Next.js/React/TS/Node/Python/FastAPI/AWS/Docker. Small studio - verify payment terms at offer."
+  },
+  {
+    "company": "GreatFrontEnd",
+    "role": "Front End Software Engineer Intern",
+    "url": "https://www.greatfrontend.com/jobs/front-end-software-engineer-intern",
+    "pay": "Paid, rate 'to be discussed' (Singapore company, est. USD/SGD equivalent of INR 40k-1L/month)",
+    "surfaced_on": "2026-11-19",
+    "score": 8,
+    "student_eligibility_2028": "ELIGIBLE - 'paid, fully remote, internship role open to international applicants'; only 'some software development experience' required",
+    "note": "React/TS/Next.js/PostgreSQL/Supabase/Prisma. Pay not published - confirm before committing."
+  },
+  {
+    "company": "Supero",
+    "role": "Software Engineer Intern (Backend / AI)",
+    "url": "https://www.supero.dev/careers/software-engineer-intern/",
+    "pay": "Paid + stock options; 'competitive' - figure given on first call",
+    "surfaced_on": "2026-11-19",
+    "score": 8,
+    "student_eligibility_2028": "ELIGIBLE - 'Students & new graduates', explicitly no prior internship needed",
+    "note": "Remote, Bengaluru or SF Bay Area. Python/TS/Go. Application = something you built."
+  },
+  {
+    "company": "Zostel (Zo World)",
+    "role": "Engineering Intern (Full-Stack + AI)",
+    "url": "https://www.zostel.com/career/68-engineering-intern",
+    "pay": "'Stipend based on skill and signal' - not published",
+    "surfaced_on": "2026-11-19",
+    "score": 8,
+    "student_eligibility_2028": "ELIGIBLE - no batch or experience gate; portfolio-based",
+    "note": "Remote, full-time 6 months. React/Next/Tailwind/Node TS/Postgres/Prisma/Redis/CI-CD + RAG."
+  },
+  {
+    "company": "Broadcastwell LLC",
+    "role": "Software Engineering Intern, TypeScript",
+    "url": "https://broadcastwell.com/careers/software-engineering-intern",
+    "pay": "INR 30,000/month gross for 20 hrs/week, 12 weeks",
+    "surfaced_on": "2026-11-19",
+    "score": 8,
+    "student_eligibility_2028": "ELIGIBLE - no experience required, age 18+ and legally able to work in India",
+    "note": "Remote India only. Wellfound mirror: https://wellfound.com/jobs/4785326-software-engineering-intern-typescript . CAUTION: heavy legalese, EOR 'planned', repeated 'Launchpad'/referral disclaimers - verify employer and payroll before accepting."
+  },
+  {
+    "company": "TraceRoot.AI (YC S25)",
+    "role": "Software Engineering Intern",
+    "url": "https://www.ycombinator.com/companies/traceroot-ai/jobs/RCbNRRq-software-engineering-intern",
+    "surfaced_on": "2026-11-19",
+    "rejected": "not 100% remote - 'work in person with the founders at least 3 days a week' in SF"
+  },
+  {
+    "company": "Fanvue",
+    "role": "Software Engineer (Intern)",
+    "url": "https://jobs.ashbyhq.com/fanvue.com/9ba53c5b-dcc7-4e6c-8ecc-0647a62761ce",
+    "surfaced_on": "2026-11-19",
+    "rejected": "Hybrid, London"
+  },
+  {
+    "company": "Nika",
+    "role": "Software Engineering Intern",
+    "url": "https://wellfound.com/jobs/4496881-software-engineering-intern",
+    "surfaced_on": "2026-11-19",
+    "rejected": "hires remotely only in Canada/Europe/HK/Singapore/US - India not eligible"
+  },
+  {
+    "company": "Wavelength (YC W24) / Assembly",
+    "role": "Founding Software Engineer (Remote, IN)",
+    "url": "https://www.ycombinator.com/companies/wavelength/jobs/6goKR1I-founding-software-engineer-remote",
+    "surfaced_on": "2026-11-19",
+    "rejected": "body is a Senior Full Stack Engineer spec (distributed-systems depth); conflicting 'US citizen/visa only' field despite IN location"
+  },
+  {
+    "company": "Skylarq AI",
+    "role": "Full-Stack Engineering Intern - Application-Layer AI (Worldwide Remote)",
+    "url": "https://www.remoterocketship.com/us/company/skylarq-ai-ai/jobs/full-stack-engineering-intern-application-layer-ai-worldwide-remote/",
+    "surfaced_on": "2026-11-19",
+    "rejected": "tagged mid-level/senior; requires proven production full-stack delivery; no pay listed"
+  },
+  {
+    "company": "BharatCode",
+    "role": "Software Development Engineer Intern",
+    "url": "https://jobfound.org/job/bharatcode-is-hiring-for-software-development-engineer-intern-india-india-21-october-2026",
+    "surfaced_on": "2026-11-19",
+    "rejected": "INR 60k/month and student-eligible, but sole entry route is the Build League hackathon and Round 1 results are already published; posted 21 Oct (stale)"
+  },
+  {
+    "company": "G-P (Globalization Partners)",
+    "role": "Software Engineer II",
+    "url": "https://weworkremotely.com/remote-jobs-typescript",
+    "surfaced_on": "2026-11-19",
+    "rejected": "Asia-only remote and posted today, but requires 3+ years"
+  },
+  {
+    "company": "CallDash",
+    "role": "Full Stack Developer Intern",
+    "url": "https://thejobcompany.co.in/frontend/job_details?job_id=5573",
+    "surfaced_on": "2026-11-19",
+    "rejected": "INR 30k/month remote India but eligible batches 2024/2025/2026 only; page last updated Feb 2026"
+  },
+  {
+    "company": "KoinX",
+    "role": "Frontend Intern (with PPO)",
+    "url": "https://gethiredfaster.in/koinx-hiring-frontend-intern-ppo-remote-india-jobs-2026/",
+    "surfaced_on": "2026-11-19",
+    "rejected": "stipend INR 20-25k/month - below INR 30k floor"
+  },
+  {
+    "company": "CodeVector Labs",
+    "role": "Software Development Internship (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-codevector-labs1794819334",
+    "surfaced_on": "2026-11-19",
+    "rejected": "INR 20-25k/month (below floor); final-year 2027 batch or 2025-26 grads"
+  },
+  {
+    "company": "arabian private holdings",
+    "role": "Frontend Developer Intern",
+    "url": "https://www.founditgulf.com/job/frontend-developer-intern-arabian-private-holdings-saudi-arabia-50717031",
+    "surfaced_on": "2026-11-19",
+    "rejected": "USD 1,100/month fully remote 0-1yr posted 1 day ago, BUT India eligibility never stated, listed under Saudi cities, duplicate posts across cities, aggregator-only source, no company careers page - unverifiable"
+  },
+  {
+    "company": "AURIC",
+    "role": "Junior Full-Stack Web Developer",
+    "url": "https://www.caferemote.com/jobs/auric-junior-full-stack-web-developer",
+    "surfaced_on": "2026-11-19",
+    "rejected": "work-from location restricted to Indonesia or Philippines"
+  },
+  {
+    "company": "Exaful",
+    "role": "Software Engineer Intern - AI & Full Stack",
+    "url": "https://wellfound.com/jobs/4739725-software-engineer-intern-ai-full-stack-exaful",
+    "surfaced_on": "2026-11-19",
+    "rejected": "stipend INR 5-8k/month; 2027 batch only; Chennai/Kanyakumari preference"
+  },
+  {
+    "company": "Nexorlio",
+    "role": "Software Developer Intern",
+    "url": "https://nexorlio.com/careers/software-developer-intern",
+    "surfaced_on": "2026-11-19",
+    "rejected": "fully remote worldwide and student-friendly, but compensation entirely unspecified ('based on arrangement'), asks for expected hourly rate"
+  },
+  {
+    "company": "Thuyonx",
+    "role": "Frontend/Backend Developer Intern (8 tracks)",
+    "url": "https://thuyonx.in/career",
+    "surfaced_on": "2026-11-19",
+    "rejected": "explicitly unpaid"
+  },
+  {
+    "company": "Trexon Energy",
+    "role": "Solar Software Engineering Intern",
+    "url": "https://trexon.my/internships/solar-software",
+    "surfaced_on": "2026-11-19",
+    "rejected": "RM 1,500/month (approx INR 31k) but Malaysia-based programme, KL/remote - India eligibility not offered"
+  },
+  {
+    "company": "slice",
+    "role": "SDE Intern",
+    "url": "https://www.telugutechlearners.in/2026/07/slice-sde-intern-recruitment-2026.html",
+    "surfaced_on": "2026-11-19",
+    "rejected": "INR 40-50k/month and 2028 batch eligible, but Bengaluru on-site"
+  },
+  {
+    "company": "Productiv Team",
+    "role": "Junior Full-Stack Developer (AI-Assisted)",
+    "url": "https://himalayas.app/companies/productiv-team/jobs/junior-full-stack-developer-ai-assisted",
+    "surfaced_on": "2026-11-19",
+    "rejected": "listing no longer retrievable (crawl 404); pay not confirmed"
+  },
+  {
+    "company": "Corpay",
+    "role": "Junior Full Stack Software Developer",
+    "url": "https://himalayas.app/companies/corpay/jobs/junior-full-stack-software-developer",
+    "surfaced_on": "2026-11-19",
+    "rejected": "United States applicants only"
+  },
+  {
+    "company": "MailerMen",
+    "role": "Global Remote React Frontend Internship",
+    "url": "https://mailermen.com/jobs/global-remote-react-frontend-internship-remote-worldwide-160",
+    "surfaced_on": "2026-11-19",
+    "rejected": "INR 14-17k/month - below floor"
+  },
+  {
+    "company": "Bask Health",
+    "role": "Product Engineering Intern",
+    "url": "https://builtin.com/job/product-engineering-intern/12235499",
+    "surfaced_on": "2026-11-19",
+    "rejected": "hiring remotely in United States only"
+  },
+  {
+    "company": "Cehpoint",
+    "role": "Full-Stack Developer Intern",
+    "url": "https://www.cehpoint.co.in/careers/full-stack-developer-intern",
+    "surfaced_on": "2026-11-19",
+    "rejected": "INR 10-20k/month - below floor"
+  },
+  {
+    "company": "Pear Protocol",
+    "role": "AI & Web3 Intern",
+    "url": "https://www.linkedin.com/posts/yadheedhya_ai-web3-intern-remote-activity-7469980908112998400-tHX9",
+    "surfaced_on": "2026-11-19",
+    "rejected": "remote-anywhere, paid in fiat/stables and heavy TypeScript, but posting dates to June 2026 - stale"
+  },
+  {
+    "company": "Palisadepost IT / Flintridge (11internships)",
+    "role": "Front End / Angular Developer Intern",
+    "url": "https://11internships.com/internship/front-end-development-intern-palisadepost-it-remote-pakistan-tk6khsya",
+    "surfaced_on": "2026-11-19",
+    "rejected": "listings self-identify as 'Demo job created on 11jobs for testing and demonstrations. It is not an actual opening'"
   }
 ]
