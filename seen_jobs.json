@@ -290,5 +290,350 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "Foundryy",
+    "role": "Backend Developer Intern",
+    "url": "https://foundryy.in/opportunities/ada0ead7-14a3-44b0-b140-a46c298f24f5",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "score": 7,
+    "verdict": "NEAR MISS - best of the day. Fresh (17 Nov), Remote open from India, 2nd-year+ undergrad eligible (2028 batch OK), exact stack (TS/Node/REST/SQL/Git). Blocked ONLY because listing states no stipend at all, so the >= Rs30k/month floor cannot be verified. Apply-by 28 Nov 2026."
+  },
+  {
+    "company": "Skylarq AI",
+    "role": "Full-Stack Engineering Intern - Application-Layer AI",
+    "url": "https://www.remoterocketship.com/us/company/skylarq-ai-ai/jobs/full-stack-engineering-intern-application-layer-ai-worldwide-remote/",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "score": 6,
+    "rejected": "Fresh (16 Nov) and 'Anywhere in the World', but requirements demand production full-stack experience + 'previous startup or founding team experience'; board tags it Mid-level/Senior. No pay stated."
+  },
+  {
+    "company": "SnapVibr",
+    "role": "Software Engineering Intern (100% Remote Worldwide)",
+    "url": "https://www.snapvibr.com/careers/software-engineering-intern",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "score": 6,
+    "rejected": "Perfect eligibility + stack (TS/React/Next, remote worldwide, async) but posted 2026-10-15 (fails 24-72h freshness) and states no compensation anywhere."
+  },
+  {
+    "company": "Ritual",
+    "role": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/ritual/jobs/4068271007",
+    "pay": "NOT STATED on intern req (sibling Research Intern req lists $120k-180k/yr, India in allowed locations)",
+    "surfaced_on": "2026-11-20",
+    "score": 7,
+    "rejected": "Evergreen req (first indexed 2023, merely re-syndicated Nov 2026) so freshness fails; no pay on the req; stack is cryptography/ML not TS/Next/Node."
+  },
+  {
+    "company": "SerenAI / SerenDB",
+    "role": "Financial Data Provider Intern",
+    "url": "https://serendb.com/careers/financial-data-provider-intern",
+    "pay": "$50/hour USD",
+    "surfaced_on": "2026-11-20",
+    "score": 6,
+    "rejected": "Pay is excellent and student/recent-grad eligible, but the role is research/BD/provider-onboarding, not software engineering - stack alignment fails. No posting date; location eligibility conditional on work location."
+  },
+  {
+    "company": "MacroCoderz",
+    "role": "AI Engineering Intern",
+    "url": "https://macrocoderz.com/careers/ai-engineering-intern",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "score": 5,
+    "rejected": "Remote worldwide, no experience required, but posted 10 Oct 2026 (stale) and no stipend stated. Also final-year/recent-grad framing."
+  },
+  {
+    "company": "Pear Protocol",
+    "role": "AI and Web3 Intern (3-month remote gig)",
+    "url": "https://www.linkedin.com/posts/yadheedhya_ai-web3-intern-remote-activity-7469980908112998400-tHX9",
+    "pay": "paid in fiat or USDC/USDT, amount unstated",
+    "surfaced_on": "2026-11-20",
+    "score": 6,
+    "rejected": "Ideal profile fit (heavy TypeScript, remote anywhere, 'code not pedigree', paid in stables) but posted 2026-06-09 - five months stale."
+  },
+  {
+    "company": "HelpAfterAccident",
+    "role": "Founding Full Stack Software Engineer",
+    "url": "https://remotejobs.victorytuitions.in/job/founding-full-stack-software-engineer-cd1eacea/",
+    "pay": "from $500/month",
+    "surfaced_on": "2026-11-20",
+    "score": 5,
+    "rejected": "Posted ~3 weeks ago (fails freshness); low-trust aggregator host; compensation explicitly 'modest'."
+  },
+  {
+    "company": "Nika",
+    "role": "Software Engineering Intern",
+    "url": "https://wellfound.com/jobs/4496881-software-engineering-intern",
+    "pay": "$30k-$60k",
+    "surfaced_on": "2026-11-20",
+    "rejected": "India NOT in hiring regions (Canada/Europe/HK/Singapore/US only). Posted 3 months ago."
+  },
+  {
+    "company": "graphycs",
+    "role": "Founding Engineer (Intern)",
+    "url": "https://www.graphycs.de/careers/founding-engineer-(intern)",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Remote (Europe) only."
+  },
+  {
+    "company": "Propily",
+    "role": "Full-Stack Engineer Intern - React, Next.js & Python",
+    "url": "https://www.reactremotejobs.com/job/propily-full-stack-engineer-intern-react-next-js-python-remote-uk",
+    "pay": "credit-bearing placement (unpaid)",
+    "surfaced_on": "2026-11-20",
+    "rejected": "UK region + unpaid academic credit."
+  },
+  {
+    "company": "Brave",
+    "role": "Software Engineering Intern - Winter Session",
+    "url": "https://job-boards.greenhouse.io/brave/jobs/8360001",
+    "pay": "$6,000/month",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Restricted to Waterloo University students (Canada)."
+  },
+  {
+    "company": "Replova",
+    "role": "Product & Engineering Intern",
+    "url": "https://jobfound.org/job/replova-is-hiring-for-product-engineering-intern-united-states-remote-usa-13-november-2026",
+    "pay": "'Competitive' / academic credit",
+    "surfaced_on": "2026-11-20",
+    "rejected": "United States only."
+  },
+  {
+    "company": "Cohere",
+    "role": "Software Engineer Intern (Fall/Winter 2026)",
+    "url": "https://peerlist.io/company/cohere/careers/software-engineer-intern-fall--winter-2026/jobhdndobkb968pgoilkajng67nbja",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Remote United States / Canada only."
+  },
+  {
+    "company": "Incubyte",
+    "role": "Software Craftsperson Intern",
+    "url": "https://cutshort.io/job/Software-Craftsperson-Intern-Incubyte-lHCDjMdN",
+    "pay": "Rs 25,000/month",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Triple fail: graduation batch 2026/2027 ONLY (2028 ineligible); stipend below Rs30k; 1 month mandatory onsite Pune/Ahmedabad so not 100% remote."
+  },
+  {
+    "company": "Atlassian",
+    "role": "Graduate Software Engineer (Remote - India)",
+    "url": "https://veyrai.world/jobs/atlassian-graduate-software-engineer-remote",
+    "pay": "Rs 15-22 LPA + RSUs",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Target graduation batch 2025 only; needs completed degree. Also surfaced via a referral-reselling aggregator, not Atlassian's own board - treat with caution."
+  },
+  {
+    "company": "BJAK",
+    "role": "Applied AI Engineer",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/416c3505-bc04-4b6e-8c60-fae0ea8b947e",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Remote-India and fresh (16 Nov) but the bar is explicitly 'real technology career highlights... personally helped build, ship or scale a serious product' - well beyond 0-1 yr."
+  },
+  {
+    "company": "Diagrid",
+    "role": "Fullstack Senior Software Engineer",
+    "url": "https://jobs.ashbyhq.com/diagrid/06fdf2f3-fff0-4628-b58c-2c07d408e656",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Senior. (Remote India, perfect TS/Node stack - worth revisiting in 2028.)"
+  },
+  {
+    "company": "Firstwork",
+    "role": "Software Engineer (Remote)",
+    "url": "https://jobs.ashbyhq.com/firstwork/75ed42df-9999-4cf1-a610-45133fe4df0e",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Requires 3-5 years backend experience."
+  },
+  {
+    "company": "Ande",
+    "role": "Senior Software Engineer",
+    "url": "https://jobs.ashbyhq.com/ande/2caddfef-a3e4-45c1-9470-8cce673fa158",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Senior, full-time."
+  },
+  {
+    "company": "Ensono",
+    "role": "Associate Software Engineer, Product & Tech",
+    "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4749950005",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Pune onsite, not remote; 0.5-3 yrs with 'extensive development experience'."
+  },
+  {
+    "company": "OpenGov",
+    "role": "Software Engineer II (DevX)",
+    "url": "https://jobs.ashbyhq.com/opengov/3d6d4ac3-d645-410e-bacf-3395b7da4838",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "OnSite Pune, SE II level."
+  },
+  {
+    "company": "Vantheon",
+    "role": "Founding Engineer - Full-Stack",
+    "url": "https://jobs.ashbyhq.com/vantheon/bd06fec4-7183-464c-bfd1-1029de067dd2",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "2-5 yrs experience, on-site."
+  },
+  {
+    "company": "Sittsy",
+    "role": "Founding Engineer - Full Stack TypeScript (Remote)",
+    "url": "https://wellfound.com/jobs/4889873-founding-engineer-full-stack-typescript-remote",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Founding-level role, Paris-based, visa sponsorship unavailable; India eligibility unconfirmed."
+  },
+  {
+    "company": "Simplview",
+    "role": "Founding Engineer (React/TypeScript/GenAI) Part-Time",
+    "url": "https://wellfound.com/jobs/4408605-founding-engineer-react-typescript-genai-part-time-remote",
+    "pay": "Rs 25,000-50,000 + equity",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Asks for 8 years of experience."
+  },
+  {
+    "company": "ONI",
+    "role": "Founding Engineer",
+    "url": "https://wellfound.com/jobs/1555674-founding-engineer",
+    "pay": "Rs 50,000-1.5L + equity",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Requires 3 years of experience."
+  },
+  {
+    "company": "Zorvyn",
+    "role": "SDE Intern",
+    "url": "https://www.foundit.in/job/sde-intern-zorvyn-india-42550607",
+    "pay": "Rs 40,000/month + PPO up to 14 LPA",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Posted ~2 months ago / start window was Jan-Feb 2026 - stale. Also C/C++/Java focused, 300+ applicants."
+  },
+  {
+    "company": "workpivot (unnamed AI co)",
+    "role": "Fullstack Engineer - Intern",
+    "url": "https://workpivot.online/remote-jobs/fullstack-engineer-intern",
+    "pay": "NOT STATED",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Requires graduating in 2026; company unnamed; no pay."
+  },
+  {
+    "company": "Canonical",
+    "role": "Early Careers - Graduate Software Engineer / Associate",
+    "url": "https://www.prepnplaced.com/apprenticeships/remote",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Rolling since Aug 2026 (stale) and a graduate role requiring a completed degree."
+  },
+  {
+    "company": "CodeVector Labs",
+    "role": "Software Development Intern (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-codevector-labs1794819334",
+    "pay": "Rs 20,000-25,000/month",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Below Rs30k floor; 2027 batch/recent grads; prefers candidates with prior production experience."
+  },
+  {
+    "company": "Floneo",
+    "role": "Full Stack Development Intern (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-floneo1794559889",
+    "pay": "Rs 6,000-10,000/month",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Far below pay floor (exact stack match otherwise; 913 applicants)."
+  },
+  {
+    "company": "Offshore Minds",
+    "role": "Software Engineer Intern",
+    "url": "https://jobfound.org/job/offshore-minds-is-hiring-for-software-engineer-intern-remote-india-16-november-2026",
+    "pay": "Rs 10,000-15,000/month",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Below pay floor."
+  },
+  {
+    "company": "PGAGI",
+    "role": "SDE Internship (Next.js)",
+    "url": "https://cutshort.io/job/SDE-Internship-Next-Js-PGAGI-y4NMladl",
+    "pay": "Rs 2-3L/yr (~Rs 16-25k/month)",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Below pay floor; posted 17 Oct."
+  },
+  {
+    "company": "Togepe",
+    "role": "Full Stack Development Intern",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-togepe1793494679",
+    "pay": "Rs 6,000/month (Rs 3k fixed)",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Below pay floor."
+  },
+  {
+    "company": "OpalCode",
+    "role": "Full Stack Development Intern",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-opalcode1793619432",
+    "pay": "Rs 20,000-28,000/month",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Below pay floor; 1000+ applicants."
+  },
+  {
+    "company": "Raushang4 Technology",
+    "role": "Full Stack Development Intern",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-raushang4-technology1792583568",
+    "pay": "Rs 15,000-25,000/month",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Below pay floor; posted 3 weeks ago."
+  },
+  {
+    "company": "taskenzo",
+    "role": "Product Software Engineering Internship (founding)",
+    "url": "https://taskenzo.space/remote-jobs/product-software-engineering-internship",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Explicitly unpaid."
+  },
+  {
+    "company": "Strix Engineering Studio",
+    "role": "Unpaid - Full Stack Engineering Intern",
+    "url": "https://wellfound.com/jobs/4301992-unpaid-full-stack-engineering-intern",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Explicitly unpaid (title says so). Remote Everywhere, NestJS/Next stack."
+  },
+  {
+    "company": "Honeybee Digital",
+    "role": "Laravel Intern",
+    "url": "https://cutshort.io/job/Laravel-Intern-Honeybee-Digital-bL6RjY1k",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Unpaid; PHP/Laravel stack."
+  },
+  {
+    "company": "Explyra",
+    "role": "Full-Stack Developer Intern (Founding)",
+    "url": "https://peerlist.io/company/explyras/careers/fullstack-developer-intern/jobhbar7rerdoqp8dhbneker9qoga8",
+    "pay": "Rs 2k/year",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Archived listing; effectively unpaid."
+  },
+  {
+    "company": "Muxgrow",
+    "role": "Software Engineer Intern -> Founding Engineer",
+    "url": "https://www.linkedin.com/posts/vishucodes_im-building-muxgrow-and-im-looking-for-activity-7427214807633698817-164D",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Posted Feb 2026 (stale); no compensation stated. Stack is an exact match (Next/NestJS/TS/Prisma/Postgres) - worth a cold email."
+  },
+  {
+    "company": "insiderOne / insiderone.in (Aurist Private Limited)",
+    "role": "Backend Developer Intern Rs 40,000-60,000/month, posted simultaneously for Chennai/Jaipur/Ahmedabad",
+    "url": "https://www.insiderone.in/internships/remote/paid/skill/node-js",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Aggregator listing its own 'insiderOne AI' roles at implausible stipends across many cities at once, gated behind an on-site skill test. Treat as lead-generation, not a real opening."
+  },
+  {
+    "company": "RoleNest / rolenest.in",
+    "role": "Junior Full-Stack Engineer 'internship' at Rs 12 LPA",
+    "url": "https://rolenest.in/internships/junior-full-stack-engineer-mv8229fv",
+    "surfaced_on": "2026-11-20",
+    "rejected": "Template-generated SEO page (unrendered '$' variables in its own FAQ, self-referential 'company: RoleNest'). Not a real opening."
   }
 ]
