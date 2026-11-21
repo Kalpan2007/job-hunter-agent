@@ -290,5 +290,256 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "Rezifi",
+    "role": "Fresher AI/ML Engineer",
+    "url": "https://rezifi.com/careers/fresher-ai-engineer",
+    "pay": "INR 12-15 LPA (~Rs 1,00,000-1,25,000/month)",
+    "surfaced_on": "2026-11-21",
+    "score": 9.5,
+    "student_eligibility_2028": "ELIGIBLE - 'Freshers welcome, up to 2 years'; Rezifi confirmed skills-only (no degree/batch/graduation bar) in 2026-11-15 run",
+    "note": "Posted 19 Nov 2026. Fully remote, anywhere in India. Needs one project calling an LLM API - only real gap. Distinct URL/role from the 4 Rezifi roles logged 2026-11-15."
+  },
+  {
+    "company": "Ritual",
+    "role": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/ritual/jobs/4068271007",
+    "pay": "Not disclosed; Ritual advertises 'top 1% of the web3 startup space' comp on its other roles",
+    "surfaced_on": "2026-11-21",
+    "score": 8.5,
+    "student_eligibility_2028": "ELIGIBLE - 'open to exceptional people of all backgrounds for research (e.g. high school, undergraduate and postgraduate degree)'",
+    "note": "Greenhouse page live and accepting applications 21 Nov 2026; originally indexed 17 Oct 2026. Location 'Worldwide (Fully Remote)'. Crypto+AI chain. Leans cryptography/ML rather than TS/Node. PAY UNVERIFIED - confirm before committing."
+  },
+  {
+    "company": "Alphashots.AI",
+    "role": "AI Engineering & Open-Source Development Internship",
+    "url": "https://www.insiderone.in/jobs/ai-engineering-and-open-source-development-internship-at-alphashots-ai-remote-cc3d12bf-85a6-4008-8d8c-d81c031c1e23",
+    "pay": "INR 25,000-30,000/month fixed, for 3-5 hours/week",
+    "surfaced_on": "2026-11-21",
+    "score": 8.5,
+    "student_eligibility_2028": "ELIGIBLE - 'Engineering student (any stream) from 2nd year onward'",
+    "note": "APPLY BY 22 NOV 2026. Remote India, 1 month, 3-5 hrs/week. IIT-IIM founded, pre-seed. Via Unstop. Python/MCP/LLM/Git stack. Top of range meets the 30k floor; bottom (25k) does not."
+  },
+  {
+    "company": "ChainGPT",
+    "role": "AI-Native Software Engineer - Early Career",
+    "url": "https://workpivot.online/remote-jobs/ai-native-software-engineer-early-career-europe",
+    "pay": "Not disclosed - 'competitive compensation', paid monthly in fiat via payroll/EOR provider",
+    "surfaced_on": "2026-11-21",
+    "score": 8,
+    "student_eligibility_2028": "ELIGIBLE - 'You may be fresh out of university, still studying, or entirely self-taught'",
+    "note": "Posted 16-19 Nov 2026. 'Remote - global applications welcome; apply via the region closest to you' (listing indexed under Europe region). Web3/AI. 90-day probation, KYC+NDA onboarding. PAY UNVERIFIED."
+  },
+  {
+    "company": "Emetlab",
+    "role": "Junior Software Engineer",
+    "url": "https://himalayas.app/companies/emetlab/jobs/junior-software-engineer",
+    "pay": "Not disclosed",
+    "surfaced_on": "2026-11-21",
+    "score": 8,
+    "student_eligibility_2028": "ELIGIBLE - 'a degree in CS... or equivalent practical experience through bootcamps, self-directed learning, or personal projects'",
+    "note": "Posted 12 Oct 2026, apply before 28 Dec 2026. Fully remote, open to candidates from all countries. Full-time AND part-time available. AI training-data infrastructure. PAY UNVERIFIED."
+  },
+  {
+    "company": "Saifuro",
+    "role": "AI Engineer (Agents, Web3)",
+    "url": "https://saifuro.com/careers/ai-engineer",
+    "pay": "$170,000-$220,000/yr + 0.30% equity; paid in USD or USDC outside the US",
+    "surfaced_on": "2026-11-21",
+    "score": 8,
+    "student_eligibility_2028": "NO BAR STATED - no years-of-experience, degree or batch requirement; 'Work outside a job counts too: open source, hackathons and your own projects'",
+    "note": "India explicitly listed among hireable countries. 100% remote, 14:00-17:00 UTC overlap (IST-friendly). Explicitly allows holding another job. STRETCH: real bar is 'shipped an agent or LLM feature someone else relied on' - his LLM/agent work is the gap. Apply by email to contact@saifuro.com."
+  },
+  {
+    "company": "Parsewave",
+    "role": "Junior Unreal Engine Developer (AI Tools) - 1-month contract",
+    "url": "https://cutshort.io/job/Junior-Unreal-Engine-Developer-AI-Tools-Remote-1-Month-Contract-Parsewave-eocBMtKf",
+    "pay": "$600/month + bonuses to $800/month, paid weekly via Wise",
+    "surfaced_on": "2026-11-21",
+    "score": 6,
+    "rejected": "stack mismatch - Unreal Engine 5.8 + hard requirement for a dedicated-GPU PC. Pay/eligibility excellent (0-2 yrs, 'students and beginners welcome', posted 20 Nov 2026) - revisit if he wants USD cash over stack fit."
+  },
+  {
+    "company": "micro1 / OpenTrain",
+    "role": "Junior Machine Learning Engineer (contract)",
+    "url": "https://www.opentrain.ai/jobs/machine-learning-engineer-ai-training-tasks--cmwdzr73w007h08jsqw70vq4q/",
+    "pay": "$60-120/hour, paid per accepted task, ~15 hrs/week",
+    "surfaced_on": "2026-11-21",
+    "score": 6,
+    "rejected": "requires a COMPLETED bachelor's degree plus 'strong professional or research experience in machine learning'. India is in the 52-country list and pay is outstanding - revisit after graduation in 2028."
+  },
+  {
+    "company": "Broadcastwell LLC",
+    "role": "Software Engineering Intern, TypeScript",
+    "url": "https://broadcastwell.com/careers/software-engineering-intern",
+    "pay": "Gross INR 30,000/month for 20 hrs/week over 12 weeks",
+    "surfaced_on": "2026-11-21",
+    "score": 6,
+    "rejected": "AVOID - meets floor on paper and no batch/degree bar, but no confirmed employing entity ('EOR employment is planned... must be confirmed before appointment'; 'no appointment or work begins before lawyer review'), and the careers page is wrapped in a 'Launchpad' learning + referral + 'Exchange' revenue scheme with repeated disclaimers. MLM-adjacent structure."
+  },
+  {
+    "company": "Inferova Technologies",
+    "role": "Full-Stack Developer Intern",
+    "url": "https://inferova.com/careers-fullstack",
+    "surfaced_on": "2026-11-21",
+    "rejected": "stipend 'Competitive' - undisclosed, cannot confirm 30k floor. Stack is a near-exact match (TS, React/Next, Node/Express, PostgreSQL, AWS, Docker, WebSockets), Remote India, 'currently pursuing' eligible. REVISIT if stipend published."
+  },
+  {
+    "company": "Octaviaflow",
+    "role": "Full Stack Developer Intern (Node.js)",
+    "url": "https://octaviaflow.com/careers/full-stack-developer-intern-node-js",
+    "surfaced_on": "2026-11-21",
+    "rejected": "stipend undisclosed (application asks candidate's expected INR stipend). Remote, students eligible, TS/Node/Bun/Next.js stack."
+  },
+  {
+    "company": "AgResearch Labs",
+    "role": "Junior Software Engineer - Internship",
+    "url": "https://www.prepintro.com/job/junior-software-engineer-internship-agresearch-labs/",
+    "surfaced_on": "2026-11-21",
+    "rejected": "no pay stated; listing only found on a low-trust aggregator (prepintro.com), company page unverified. Stack would be a bullseye (TypeScript, Fastify, Next.js, PostgreSQL, AWS), India Remote, NASSCOM Top-100 DeepTech 2026 claim."
+  },
+  {
+    "company": "BharatCode",
+    "role": "Software Development Engineer Intern",
+    "url": "https://jobfound.org/job/bharatcode-is-hiring-for-software-development-engineer-intern-india-india-21-october-2026",
+    "pay": "INR 60,000/month for 3 months",
+    "surfaced_on": "2026-11-21",
+    "score": 9,
+    "student_eligibility_2028": "ELIGIBLE - 'Pursuing or recently completed a degree in CS, IT or a related field, or equivalent hands-on experience'; 'Your project matters more than your college or your CGPA'",
+    "rejected": "ENTRY PATH LIKELY CLOSED - 'There is only one way to get this internship: perform well in the BharatCode Build League.' Build League Round 1 results are already published (TRINETRA won, 145/175), so this cycle's hackathon gate has passed. Watch bharatcode.ai/hackathon for a Round 2."
+  },
+  {
+    "company": "CodeVector Labs",
+    "role": "Software Development Internship (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-codevector-labs1794819334",
+    "surfaced_on": "2026-11-21",
+    "rejected": "INR 20,000-25,000/month (below floor) AND 'Final-year students (2027 batch) or recent graduates (2025-2026)'. Stack was an exact match (TS/React/Next/Node/PostgreSQL)."
+  },
+  {
+    "company": "Offshore Minds",
+    "role": "Software Engineer Intern",
+    "url": "https://jobfound.org/job/offshore-minds-is-hiring-for-software-engineer-intern-remote-india-16-november-2026",
+    "surfaced_on": "2026-11-21",
+    "rejected": "INR 10,000-15,000/month - below floor"
+  },
+  {
+    "company": "Floneo",
+    "role": "Full Stack Development Internship (WFH)",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-floneo1794559889",
+    "surfaced_on": "2026-11-21",
+    "rejected": "INR 6,000-10,000/month - below floor. Stack was an exact match (Next.js/TS/Node/Express/Prisma/PostgreSQL)."
+  },
+  {
+    "company": "Pactorize",
+    "role": "Software Development Engineer Intern",
+    "url": "https://pactorize.com/careers/sde-intern-mumbai.html",
+    "surfaced_on": "2026-11-21",
+    "rejected": "INR 20,000/month - below floor"
+  },
+  {
+    "company": "Blacklitt",
+    "role": "Software Engineer Intern (Backend)",
+    "url": "https://jobfound.org/job/blacklitt-is-hiring-for-software-engineer-intern-backend-india-india-2-november-2026",
+    "surfaced_on": "2026-11-21",
+    "rejected": "up to INR 10,000/month - below floor; also 'preference for Tier 1 colleges'"
+  },
+  {
+    "company": "Spearmint technologies",
+    "role": "Full Stack AI Developer Intern",
+    "url": "https://www.qarera.com/job/2810597",
+    "surfaced_on": "2026-11-21",
+    "rejected": "INR 5,000/month - below floor"
+  },
+  {
+    "company": "Dexterz Technology",
+    "role": "Full Stack Web Development Intern",
+    "url": "https://jobluu.com/jobs/full-stack-web-development-intern-remote-jobs-in-remote-at-dexterz-technology-fresher-id-6af9fa2be687f5027aca42f0",
+    "surfaced_on": "2026-11-21",
+    "rejected": "INR 5,000-10,000/month - below floor"
+  },
+  {
+    "company": "Cybroque Technologies",
+    "role": "Full Stack Developer Intern (Next.js)",
+    "url": "https://upnxtwork.in/jobs/full-stack-developer-intern-at-cybroque-technologies-4f0880ae-65ae-417d-99c5-1c5ec58fe912",
+    "surfaced_on": "2026-11-21",
+    "rejected": "'Pay: INR 1.00 per month' - effectively unpaid"
+  },
+  {
+    "company": "Thuyonx",
+    "role": "Frontend / Backend Developer Intern (8 tracks)",
+    "url": "https://thuyonx.in/career",
+    "surfaced_on": "2026-11-21",
+    "rejected": "explicitly UNPAID - 'By applying you confirm you understand there is no stipend'"
+  },
+  {
+    "company": "Migsak",
+    "role": "Software Developer Intern",
+    "url": "https://www.migsak.com/careers/software-developer-intern",
+    "surfaced_on": "2026-11-21",
+    "rejected": "unpaid for the first 3 months; stipend only 'considered' after"
+  },
+  {
+    "company": "Storyvord",
+    "role": "Full Stack Developer Intern",
+    "url": "https://jobfound.org/job/storyvord-is-hiring-for-full-stack-developer-intern-india-india-4-november-2026",
+    "surfaced_on": "2026-11-21",
+    "rejected": "stipend 'To be decided' - cannot confirm floor. London-based AI film platform, remote, Next.js/TS/Django/PostgreSQL."
+  },
+  {
+    "company": "optimumindia",
+    "role": "Full Stack Developer Intern",
+    "url": "https://www.reminterns.com/jobs/36",
+    "surfaced_on": "2026-11-21",
+    "rejected": "INR 10,000-50,000/month - floor not guaranteed at the bottom of a 5x range; vague stack (React/Vue/Node/Python/PHP); aggregator-only listing"
+  },
+  {
+    "company": "Evynx",
+    "role": "Platform Engineering Intern",
+    "url": "https://evynx.com/career/EI26901T/platform-engineering-intern",
+    "surfaced_on": "2026-11-21",
+    "rejected": "NOT ELIGIBLE - 'Final-year undergraduate or postgraduate student'; 2028 batch is not final-year. No pay stated."
+  },
+  {
+    "company": "RoleNest",
+    "role": "Junior Full-Stack Engineer",
+    "url": "https://rolenest.in/internships/junior-full-stack-engineer-mv8229fv",
+    "surfaced_on": "2026-11-21",
+    "rejected": "SUSPECT - job board listing itself as the employer, SEO 'verification telemetry' boilerplate, stipend quoted as 'INR 10-14L/year' for an internship; audience '2024-2026 freshers'"
+  },
+  {
+    "company": "Acowale (via NextLeap)",
+    "role": "Junior Software Developer (Full Stack)",
+    "url": "https://nextleap.app/jobs/engineering/junior-software-developer-full-stack-react-nextjs-nodejs-typescript-acowale/jtmx9ayi",
+    "surfaced_on": "2026-11-21",
+    "rejected": "requires 1-3 years; listing also 378 days old"
+  },
+  {
+    "company": "Lumyst",
+    "role": "Software Engineer Intern (first intern)",
+    "url": "https://www.linkedin.com/posts/ketan-dudhane_lumyst-software-engineer-intern-hiring-details-activity-7379006615322161152-_4N3",
+    "surfaced_on": "2026-11-21",
+    "rejected": "STALE - post dated Oct 2025, over a year old. Was an excellent fit: remote, up to $1K USD/month, TypeScript/Node/React/D3/LLM, gradCapital-backed. Worth a cold email to the founders."
+  },
+  {
+    "company": "Docplanner",
+    "role": "Junior Software Engineer",
+    "url": "https://jobs.ashbyhq.com/docplanner/7b4577e9-a005-4a0a-bd2d-8213042380b2",
+    "surfaced_on": "2026-11-21",
+    "rejected": "100% remote within SPAIN only (separate posting from the Poland-only one logged 2026-11-15)"
+  },
+  {
+    "company": "Notion",
+    "role": "Software Engineer, Early Career (AI)",
+    "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
+    "surfaced_on": "2026-11-21",
+    "rejected": "US-based (San Francisco / New York); 0-2 YOE but requires immediate full-time start and US work authorization"
+  },
+  {
+    "company": "HIKARI IT SOLUTIONS",
+    "role": "Web3 Blockchain Developer - Entry Level",
+    "url": "https://www.jobleads.com/us/job/web3-blockchain-developer-entry-level--united-states--e5a4f8b62b5ca3797563cf537f5f9bad3",
+    "surfaced_on": "2026-11-21",
+    "rejected": "United States only despite being a fresher Web3 role at USD 65-95k"
   }
 ]
