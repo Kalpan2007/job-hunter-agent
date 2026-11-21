@@ -290,5 +290,75 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "Broadcastwell",
+    "role": "Software Engineering Intern, TypeScript",
+    "url": "https://broadcastwell.com/careers/software-engineering-intern",
+    "surfaced_on": "2026-11-21",
+    "rejected": "no posting date on page; INR 30,000/mo for 20 hrs/wk, Remote India; hire pending EOR/lawyer review"
+  },
+  {
+    "company": "ISOCODELABS",
+    "role": "Software Engineering Intern",
+    "url": "https://careers.isocodelabs.com/roles/software-engineering-intern",
+    "surfaced_on": "2026-11-21",
+    "rejected": "₹50,000/mo remote but no posting date, no company identity, placeholder phone in form"
+  },
+  {
+    "company": "Octaviaflow",
+    "role": "Full Stack Developer Intern (Node.js)",
+    "url": "https://octaviaflow.com/careers/full-stack-developer-intern-node-js",
+    "surfaced_on": "2026-11-21",
+    "rejected": "no stipend stated (asks expected stipend)"
+  },
+  {
+    "company": "Quickhyre AI",
+    "role": "Front End Development Intern",
+    "url": "https://quickhyre.ai/jobs/4177efae-ddc2-4c64-82af-bba2c98c9601",
+    "surfaced_on": "2026-11-21",
+    "rejected": "₹40-90k/mo but generic JD reposted; real posting date unconfirmable"
+  },
+  {
+    "company": "Swiggy",
+    "role": "SDE Intern (Hiring through Challenge)",
+    "url": "http://hiredoor.in/companies/swiggy",
+    "surfaced_on": "2026-11-21",
+    "rejected": "pay only HireDoor estimate (₹50k expected), official stipend not found"
+  },
+  {
+    "company": "Concord AI",
+    "role": "Entry-Level Full Stack Developer",
+    "url": "https://jobs.biff.codes/jobs/entry-level-full-stack-developer-remote-ef3b0423",
+    "surfaced_on": "2026-11-21",
+    "rejected": "posted 2026-11-06 (>7 days); gmail apply"
+  },
+  {
+    "company": "GrowwTech UK Ltd",
+    "role": "Full-Stack Developer (Junior)",
+    "url": "https://www.jobleads.com/in/job/full-stack-developer-junior--ahmedabad-district--ef7bab2e276ff2e614bf351072f77fb40",
+    "surfaced_on": "2026-11-21",
+    "rejected": "INR 3-4.2 LPA, floor ₹25k/mo below minimum; aggregator only"
+  },
+  {
+    "company": "CodeVector Labs",
+    "role": "Software Development Intern",
+    "url": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-codevector-labs1794819334",
+    "surfaced_on": "2026-11-21",
+    "rejected": "₹20-25k/mo; 2027 batch/recent grads preferred"
+  },
+  {
+    "company": "Certa",
+    "role": "Frontend Engineer - Internship",
+    "url": "https://jobs.ashbyhq.com/Certa/9f7caf0b-46ff-49ab-ae78-62deadec106e",
+    "surfaced_on": "2026-11-21",
+    "rejected": "pay not stated"
+  },
+  {
+    "company": "BharatCode",
+    "role": "Software Development Engineer Intern",
+    "url": "https://wellfound.com/jobs/4901339-software-development-engineer-intern",
+    "surfaced_on": "2026-11-21",
+    "rejected": "₹60k/mo but posted 3+ weeks ago; hackathon-only entry"
   }
 ]

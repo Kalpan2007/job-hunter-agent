@@ -1,0 +1,165 @@
+%-------------------------
+% Kalpan Kaneriya - BASE resume (do not delete; job runs copy and tailor this)
+%-------------------------
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\definecolor{linkblue}{RGB}{20,60,140}
+\hypersetup{colorlinks=true, urlcolor=linkblue, linkcolor=linkblue}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.6in}
+\addtolength{\textwidth}{1.2in}
+\addtolength{\topmargin}{-.6in}
+\addtolength{\textheight}{1.2in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\pdfgentounicode=1
+\setlist{itemsep=0pt, topsep=1pt, parsep=0pt, partopsep=0pt}
+
+\titleformat{\section}{
+  \vspace{-5pt}\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\lnk}[2]{\textbf{\href{#1}{#2}}}
+
+\newcommand{\resumeItem}[1]{\item\small{#1 \vspace{-2pt}}}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{#2} \\
+      \small #3 & \textit{\small #4} \\
+    \end{tabular*}\vspace{0pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small #1 & #2 \\
+    \end{tabular*}\vspace{0pt}
+}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[label={--}, leftmargin=0.2in]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{1pt}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \textbf{Kalpan Kaneriya}} \\ \vspace{3pt}
+    \small \lnk{https://kalpankaneriya.in}{Portfolio} $|$ +91 6352169258 $|$
+    \href{mailto:kalpankaneriya@gmail.com}{kalpankaneriya@gmail.com} $|$
+    \lnk{https://linkedin.com/in/3kz}{LinkedIn} $|$
+    \lnk{https://github.com/Kalpan2007}{GitHub} $|$
+    \lnk{https://leetcode.com/u/3kz}{LeetCode}
+\end{center}
+
+%-----------SKILLS-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{
+    \textbf{Languages:} TypeScript, JavaScript (ES6+), Python, C++ \\
+    \textbf{Frontend:} React.js, Next.js, Tailwind CSS, HTML, CSS \\
+    \textbf{Backend:} Node.js, Express.js, NestJS, REST APIs, WebSockets, API Design, System Design \\
+    \textbf{Databases:} PostgreSQL, MongoDB, Redis, Prisma ORM, Supabase \\
+    \textbf{Cloud \& DevOps:} AWS (EC2, S3, RDS, Lambda, IAM), Docker, CI/CD (GitHub Actions), k6 Load Testing \\
+    \textbf{Core CS:} Data Structures \& Algorithms (DSA), Object-Oriented Programming (OOP), DBMS
+  }}
+\end{itemize}
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {Software Engineer Intern -- AryanVeda DMS}{Feb 2026 -- May 2026}
+    {\lnk{https://github.com/Kalpan2007/Aryanveda-Readme}{GitHub}}{Remote}
+    \resumeItemListStart
+      \resumeItem{Built and deployed a \textbf{production-grade full-stack DMS} serving \textbf{12K+ users} and \textbf{5K+ DAU}, with scalable APIs, RBAC, 11-role hierarchy, and territory-based access.}
+      \resumeItem{Engineered \textbf{asynchronous data flows} for order lifecycle, inventory, and ledger tracking, ensuring consistency across multi-tier distribution entities.}
+      \resumeItem{Integrated \textbf{MSG91 WhatsApp API} with async email + in-app notifications, improving real-time communication, and validated API throughput with k6 load testing under high load.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {Product Development Intern -- Eduztrik}{Mar 2025 -- Jun 2025}
+    {\lnk{https://res.cloudinary.com/dxdrzit6x/image/upload/v1765870137/Kalpan-Kaneriya-Eduztrik-Certificate_pages-to-jpg-0001_xrx3y7.jpg}{Certificate} $|$ \lnk{https://res.cloudinary.com/dxdrzit6x/image/upload/v1765870136/Kalpan-Kaneria-Eduztrik-LOR_pages-to-jpg-0001_xfk6uh.jpg}{LOR}}{Remote}
+    \resumeItemListStart
+      \resumeItem{Enhanced \textbf{3 production features} using data-driven insights, improving adoption, usability, and measurable product outcomes.}
+      \resumeItem{Delivered \textbf{10+ UX/workflow improvements} with cross-functional teams, boosting engagement, retention, and product quality.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+  \resumeProjectHeading
+    {\textbf{NyayaSankalan} -- \textbf{Case Management System} -- \lnk{https://github.com/Kalpan2007/-NyayaSankalan---CMS}{GitHub} $|$ \lnk{https://youtu.be/QFKmyBJX93Y}{Demo Video} \\ \textbf{\textit{Tech Stack:}} \textit{React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Cloudinary}}{}
+    \resumeItemListStart
+      \resumeItem{Built a \textbf{full-stack case management system} digitizing the police-to-court case lifecycle, from FIR registration to judgment, for \textbf{4 user roles} (Police, SHO, Court Clerk, Judge).}
+      \resumeItem{Designed a \textbf{23-table PostgreSQL schema} with Prisma and a \textbf{16-state case state machine} with full state history and audit trail, exposed through \textbf{60+ REST APIs}.}
+      \resumeItem{Secured the platform with \textbf{JWT auth and role-based access control}, Helmet, rate limiting and input validation, with evidence and documents stored on Cloudinary.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{HabitEcho} -- \lnk{https://github.com/Kalpan2007/HabitEcho}{GitHub} $|$ \lnk{https://habitecho.vercel.app}{Live} $|$ \lnk{https://github.com/Kalpan2007/HabitEcho/tree/main/docs}{Documentation} \\ \textbf{\textit{Tech Stack:}} \textit{Next.js, TypeScript, PostgreSQL, Prisma}}{}
+    \resumeItemListStart
+      \resumeItem{Developed a \textbf{predictive analytics system} with momentum scoring, streak intelligence, and trend detection on relational datasets.}
+      \resumeItem{Implemented JWT auth, RBAC access control, API validations, and query optimizations, achieving $\sim$\textbf{100ms API latency}.}
+      \resumeItem{Designed normalized SQL schemas, Prisma models, and indexing strategies for efficient analytics and long-term tracking.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{SpacePulse} -- \lnk{https://github.com/Kalpan2007/Space_Pulse_Mobile_App_React_Native_Expo}{GitHub} $|$ \lnk{https://expo.dev/accounts/kalpan/projects/space-pulse/builds/be19874f-4a34-477b-afed-dec95088ec0c}{Live} $|$ \lnk{https://github.com/Kalpan2007/Space_Pulse_Mobile_App_React_Native_Expo/tree/main/docs}{Documentation} \\ \textbf{\textit{Tech Stack:}} \textit{React Native, Expo, TypeScript, Zustand}}{}
+    \resumeItemListStart
+      \resumeItem{Developed a cross-platform mobile app with real-time API integration, content aggregation, and offline-first architecture using AsyncStorage.}
+      \resumeItem{Optimized rendering with lazy loading, caching strategies, request debouncing, and state management for smoother user experience.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------ACHIEVEMENTS-----------
+\section{Achievements}
+\begin{itemize}[leftmargin=0.15in]
+  \small
+  \item \textbf{Winner} -- GDGC Hackathon, NIT Surat -- \lnk{https://res.cloudinary.com/dxdrzit6x/image/upload/v1775913898/HTT_WINNER_CERTIFICATTE_page-0001_puh4y9.jpg}{Certificate} \vspace{-3pt}
+  \item \textbf{9th Rank} -- OceanLab $\times$ CHARUSAT Hackathon -- \lnk{https://www.linkedin.com/posts/3kz_hackathon-buildinpublic-opentowork-ugcPost-7446512054150131712-ifpl/}{Linkedin-Post} \vspace{-3pt}
+  \item \textbf{LeetCode Knight} -- 1900+ rating, 480+ problems solved -- \lnk{https://leetcode.com/u/3kz}{LeetCode Profile} \vspace{-3pt}
+  \item \textbf{AWS Cloud Practitioner Essentials} -- \lnk{https://res.cloudinary.com/dxdrzit6x/image/upload/f_auto,q_auto,w_700/v1767967242/Screenshot_2026-01-09_193024_otj1as.png}{Certificate}
+\end{itemize}
+\vspace{-6pt}
+
+%-----------EDUCATION-----------
+\section{Education}
+\begin{itemize}[leftmargin=0.15in]
+  \small
+  \item \textbf{Rai University} -- Ahmedabad, India \\
+        \textbf{B.Tech CSE -- CGPA: 9.7/10} $|$ \textit{2024 -- 2028}
+\end{itemize}
+
+\end{document}
