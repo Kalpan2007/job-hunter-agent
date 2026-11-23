@@ -290,5 +290,89 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "insiderOne AI",
+    "role": "Full Stack Developer Intern (Remote, India)",
+    "url": "https://www.insiderone.in/jobs/full-stack-developer-intern-at-insiderone-ai-remote-cc3e07d7-953d-4456-a386-e6c0157e1597",
+    "surfaced_on": "2026-11-23",
+    "rejected": "posting shows only 'Posted 1w ago' (~2026-11-15), so I couldn't confirm it is within 7 days. INR 40-60k/mo, 0-1 yrs, students OK, stack match. City variants (Ahmedabad etc.) need you to live near that city. Revisit if it is reposted"
+  },
+  {
+    "company": "ISOCODELABS",
+    "role": "Software Engineering Intern",
+    "url": "https://careers.isocodelabs.com/roles/software-engineering-intern",
+    "surfaced_on": "2026-11-23",
+    "rejected": "no posting date on page; INR 50,000/mo fixed, remote, Next.js/TS/Node/AWS. Revisit if a date shows"
+  },
+  {
+    "company": "AI Cines",
+    "role": "Frontend Developer (Intern, Jr, Grads)",
+    "url": "https://prosple.com/graduate-employers/ai-cines/jobs-internships/frontend-developer-intern-jr-grads",
+    "surfaced_on": "2026-11-23",
+    "rejected": "no posting date; USD 400-800/mo, India work rights listed, closes 2026-11-30"
+  },
+  {
+    "company": "Broadcastwell",
+    "role": "Software Engineering Intern, TypeScript",
+    "url": "https://wellfound.com/jobs/4785326-software-engineering-intern-typescript",
+    "surfaced_on": "2026-11-23",
+    "rejected": "reposted ~1 month ago (stale); INR 30,000/mo for 20 hrs/wk, Remote India"
+  },
+  {
+    "company": "Bitnimbus",
+    "role": "Software Engineer (Cloud & AI-Native SaaS)",
+    "url": "https://jobfound.org/job/bitnimbus-is-hiring-for-software-engineer-india-india-18-november-2026",
+    "surfaced_on": "2026-11-23",
+    "rejected": "requires familiarity with ML fundamentals; apply only via LinkedIn"
+  },
+  {
+    "company": "GrowwTech UK",
+    "role": "Full-Stack Developer (Junior)",
+    "url": "https://www.jobleads.com/in/job/full-stack-developer-junior--ahmedabad-district--ef7bab2e276ff2e614bf351072f77fb40",
+    "surfaced_on": "2026-11-23",
+    "rejected": "INR 3-4.2 LPA, lower end ~25k/mo is below the floor"
+  },
+  {
+    "company": "Elip AI",
+    "role": "Software Engineer Intern (6 months, PPO)",
+    "url": "https://www.ycombinator.com/companies/elip-ai/jobs/Z3IDeCh-software-engineer-intern-6-months-ppo-opportunity",
+    "surfaced_on": "2026-11-23",
+    "rejected": "LLM/ML-focused role, on-site Gurugram preferred"
+  },
+  {
+    "company": "Wavelength (Assembly)",
+    "role": "Founding Software Engineer (Remote)",
+    "url": "https://www.ycombinator.com/companies/wavelength/jobs/6goKR1I-founding-software-engineer-remote",
+    "surfaced_on": "2026-11-23",
+    "rejected": "senior full-stack role with distributed-systems experience"
+  },
+  {
+    "company": "Twilio",
+    "role": "Software Engineer Intern (Jan 2027)",
+    "url": "https://thejobcompany.co.in/frontend/job_details?job_id=6391",
+    "surfaced_on": "2026-11-23",
+    "rejected": "remote only from KA/TN/TS/MH/DL, Gujarat excluded"
+  },
+  {
+    "company": "Enterpret",
+    "role": "Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/enterpret/jobs/7847134003",
+    "surfaced_on": "2026-11-23",
+    "rejected": "posted around 2026-10-14 (stale)"
+  },
+  {
+    "company": "Concord AI",
+    "role": "Entry-Level Full Stack Developer (Remote)",
+    "url": "https://jobs.biff.codes/jobs/entry-level-full-stack-developer-remote-ef3b0423",
+    "surfaced_on": "2026-11-23",
+    "rejected": "posted 2026-11-06 (stale); asks you to apply by email to a gmail address"
+  },
+  {
+    "company": "workpivot.online",
+    "role": "Frontend Developer Intern ($1,100/mo)",
+    "url": "https://workpivot.online/remote-jobs/frontend-developer-intern",
+    "surfaced_on": "2026-11-23",
+    "rejected": "SUSPECT - no identifiable company"
   }
 ]
