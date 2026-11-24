@@ -290,5 +290,53 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "insiderOne AI (Aurist Pvt Ltd)",
+    "role": "Full Stack Developer Intern / Full Stack Engineering Intern (Remote India)",
+    "url": "https://www.insiderone.in/jobs/full-stack-developer-intern-at-insiderone-ai-remote-cc3e07d7-953d-4456-a386-e6c0157e1597",
+    "pay": "INR 40,000-60,000/month (Eng. Intern variant 35-50k)",
+    "surfaced_on": "2026-11-24",
+    "rejected": "posted '1w ago' as of ~Nov 23 => >7 days old; Ahmedabad variant (4d ago) limited to people near Ahmedabad. Same JD cloned across ~10 city pages. Revisit only if a fresh anywhere-in-India copy appears."
+  },
+  {
+    "company": "Interview AI",
+    "role": "Software Engineer (Full-Time Internship)",
+    "url": "https://interviewai.space/careers.html",
+    "pay": "INR 40,000/month",
+    "surfaced_on": "2026-11-24",
+    "rejected": "no posting date on careers page; cannot confirm freshness"
+  },
+  {
+    "company": "ISOCODELABS",
+    "role": "Software Engineering Intern",
+    "url": "https://careers.isocodelabs.com/roles/software-engineering-intern",
+    "pay": "INR 50,000/month",
+    "surfaced_on": "2026-11-24",
+    "rejected": "no posting date; location only 'Remote' (India not explicit)"
+  },
+  {
+    "company": "Broadcastwell LLC",
+    "role": "Software Engineering Intern, TypeScript",
+    "url": "https://broadcastwell.com/careers/software-engineering-intern",
+    "pay": "INR 30,000/month gross, 20h/week",
+    "surfaced_on": "2026-11-24",
+    "rejected": "no posting date; employer/EOR not yet arranged ('no appointment before lawyer review')"
+  },
+  {
+    "company": "Sindhura Smart Interface",
+    "role": "Full-Stack Developer Intern",
+    "url": "https://wellfound.com/jobs/5135306-full-stack-developer-intern",
+    "pay": "INR 1L-1.2L (Wellfound field, period unclear)",
+    "surfaced_on": "2026-11-24",
+    "rejected": "monthly pay not stated; cannot confirm >=30k/month"
+  },
+  {
+    "company": "X1 Race LLP",
+    "role": "Full Stack Development Intern",
+    "url": "https://jobsii.com/job/x1-race-llp-full-stack-development-intern-november-2026/",
+    "pay": "INR 15,000-30,000/month",
+    "surfaced_on": "2026-11-24",
+    "rejected": "range starts below 30k floor"
   }
 ]
