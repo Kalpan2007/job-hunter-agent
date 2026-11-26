@@ -290,5 +290,89 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "ISOCODELABS",
+    "role": "Software Engineering Intern",
+    "url": "https://careers.isocodelabs.com/roles/software-engineering-intern",
+    "surfaced_on": "2026-11-26",
+    "rejected": "no posting date or country on page; Rs 50,000/month, Next.js/TS/Node/AWS - revisit if dated"
+  },
+  {
+    "company": "Broadcastwell",
+    "role": "Software Engineering Intern, TypeScript",
+    "url": "https://broadcastwell.com/careers/software-engineering-intern",
+    "surfaced_on": "2026-11-26",
+    "rejected": "no posting date; Rs 30,000/month 20h/wk remote India; offer gated on 'lawyer review' - unclear"
+  },
+  {
+    "company": "Web Bytes",
+    "role": "Frontend Development Intern",
+    "url": "https://web-bytes.in/internships/frontend-development-intern",
+    "surfaced_on": "2026-11-26",
+    "rejected": "no posting date; Rs 50,000/month remote India; sibling intern roles marked filled"
+  },
+  {
+    "company": "TISH Labs (via insiderOne)",
+    "role": "Backend Developer Intern",
+    "url": "https://www.insiderone.in/jobs/backend-developer-intern-at-tish-labs-remote-d03f2ed0-7aae-4a02-a7ce-b52f070f65db",
+    "surfaced_on": "2026-11-26",
+    "rejected": "no posting date; Rs 40-60k/month; company appears affiliated with the listing platform - unverified"
+  },
+  {
+    "company": "Covlant (via Weekday)",
+    "role": "Software Engineer Intern",
+    "url": "https://devportalnotes.com/job/software-engineer-intern-at-covlant-t26z84",
+    "surfaced_on": "2026-11-26",
+    "rejected": "same Weekday intern listing as already logged; posted 18 Nov (>7 days)"
+  },
+  {
+    "company": "Elip AI",
+    "role": "Software Engineer Intern (6 months, PPO)",
+    "url": "https://www.ycombinator.com/companies/elip-ai/jobs/Z3IDeCh-software-engineer-intern-6-months-ppo-opportunity",
+    "surfaced_on": "2026-11-26",
+    "rejected": "LLM/ML-heavy role; on-site Gurugram preferred"
+  },
+  {
+    "company": "CodeVector Labs",
+    "role": "Software Development Intern",
+    "url": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-codevector-labs1794819334",
+    "surfaced_on": "2026-11-26",
+    "rejected": "Rs 20-25k/month below floor; 2027 batch / grads"
+  },
+  {
+    "company": "Floneo",
+    "role": "Full Stack Development Intern",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-floneo1794559889",
+    "surfaced_on": "2026-11-26",
+    "rejected": "Rs 6-10k/month below floor"
+  },
+  {
+    "company": "suntekai",
+    "role": "FullStack Developer Internship",
+    "url": "https://cutshort.io/job/FullStack-Developer-Internship-suntekai-773kYSXk",
+    "surfaced_on": "2026-11-26",
+    "rejected": "Rs 17-22k/month; 0.5-1 yr"
+  },
+  {
+    "company": "Incubyte",
+    "role": "Software Craftsperson Intern",
+    "url": "https://cutshort.io/job/Software-Craftsperson-Intern-Incubyte-lHCDjMdN",
+    "surfaced_on": "2026-11-26",
+    "rejected": "2026/2027 grads only; 1 month onsite; Rs 25k"
+  },
+  {
+    "company": "Sindhura Smart Interface",
+    "role": "Full-Stack Developer Intern",
+    "url": "https://wellfound.com/jobs/5135306-full-stack-developer-intern",
+    "surfaced_on": "2026-11-26",
+    "rejected": "Rs 1-1.2L total, below floor"
+  },
+  {
+    "company": "Outist",
+    "role": "Full Stack Developer Intern",
+    "url": "https://wellfound.com/jobs/5137302-full-stack-developer-intern",
+    "surfaced_on": "2026-11-26",
+    "rejected": "up to Rs 15k/month"
   }
 ]
