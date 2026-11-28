@@ -290,5 +290,82 @@
     "url": "https://jobcode.in/software-engineer-at-playpower-labs-remote-india-freshers-can-apply/",
     "surfaced_on": "2026-11-15",
     "rejected": "pay not stated, cannot confirm floor; remote India fresher, revisit"
+  },
+  {
+    "company": "Myndly AI",
+    "role": "Full Stack Developer Internship",
+    "url": "https://unstop.com/internships/full-stack-developer-internship-myndly-ai-1830747",
+    "pay": "INR 30,000-35,000/month",
+    "surfaced_on": "2026-11-28",
+    "score": 6,
+    "note": "close match - passed all checks but scored 6/10 (floor-level pay, generic stack); WFH, students, 6-day week, apply by 11 Dec"
+  },
+  {
+    "company": "Vortizo AI",
+    "role": "Full Stack Developer Internship",
+    "url": "https://unstop.com/internships/full-stack-developer-internship-vortizo-ai-1822585",
+    "pay": "INR 35,000-40,000/month",
+    "surfaced_on": "2026-11-28",
+    "score": 5,
+    "note": "close match - posted 21 Nov (not fresh); legitimacy doubt (LinkedIn maps to NeoSkillz training co, reposted since Sept)"
+  },
+  {
+    "company": "QuickHyre",
+    "role": "Front End Development Intern (part time)",
+    "url": "https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-quickhyre1795584266",
+    "pay": "INR 40,000-90,000/month",
+    "surfaced_on": "2026-11-28",
+    "score": 6,
+    "note": "close match - posting date inferred from cache only; pay implausibly high, 1 hire on platform"
+  },
+  {
+    "company": "TISH Labs",
+    "role": "MERN Stack Developer Intern",
+    "url": "https://www.insiderone.in/jobs/mern-stack-developer-intern-at-tish-labs-remote-5243a33d-66fb-4ef4-a75c-93fd48c04367",
+    "pay": "INR 40,000-60,000/month",
+    "surfaced_on": "2026-11-28",
+    "rejected": "legitimacy - 1-employee entity owned by insiderOne operator (Aurist Pvt Ltd), many cloned intern posts"
+  },
+  {
+    "company": "Interview Kickstart",
+    "role": "Intern - Software Development Engineer (Backend)",
+    "url": "https://jobs.ashbyhq.com/interview-kickstart/bf2a4802-4180-440b-b5bf-5f8058e69846",
+    "surfaced_on": "2026-11-28",
+    "rejected": "no pay stated; Remote India, students OK; revisit if stipend published"
+  },
+  {
+    "company": "Certa",
+    "role": "Frontend Engineer - Internship",
+    "url": "https://jobs.ashbyhq.com/Certa/9f7caf0b-46ff-49ab-ae78-62deadec106e",
+    "surfaced_on": "2026-11-28",
+    "rejected": "pay only \"competitive\"; React/TS, remote India"
+  },
+  {
+    "company": "Elip AI",
+    "role": "Software Engineer Intern (6 months, PPO)",
+    "url": "https://www.ycombinator.com/companies/elip-ai/jobs/Z3IDeCh-software-engineer-intern-6-months-ppo-opportunity",
+    "surfaced_on": "2026-11-28",
+    "rejected": "onsite preferred (remote special cases), LLM-heavy; INR 75k/month"
+  },
+  {
+    "company": "Zorvyn",
+    "role": "SDE Intern",
+    "url": "https://internshala.com/internship/detail/work-from-home-sde-internship-at-zorvyn1768278168",
+    "surfaced_on": "2026-11-28",
+    "rejected": "recirculating since Jan 2026, no confirmable date"
+  },
+  {
+    "company": "Digital Dictionary",
+    "role": "Full Stack Web Development Intern",
+    "url": "https://wellfound.com/jobs/5137742-full-stack-web-development-intern",
+    "surfaced_on": "2026-11-28",
+    "rejected": "INR 10-15k/month"
+  },
+  {
+    "company": "OpenBuilder",
+    "role": "Junior Software Engineer (New Grad)",
+    "url": "https://scoutify.com/companies/yc-openbuilder/jobs/3603416/",
+    "surfaced_on": "2026-11-28",
+    "rejected": "India not named; final-year students only"
   }
 ]
